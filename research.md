@@ -85,6 +85,7 @@ pubs:
       year:    "2010"
       url:     "/research/traffsim/"
       doi:     "http://dx.doi.org/10.1145/1924559.1924604"
+      internal: "1"
 
 talks:
 
@@ -95,6 +96,7 @@ talks:
     - venue:  "MIT CSAIL"
       date:   "Sept 11, 2013"
       url:    "/research/talks/csail_2013/"
+      internal: "1"
 
 
 journal_reviews:
@@ -152,7 +154,7 @@ conference_reviews:
 ## Publications (peer reviewed)
 
 {% for pub in page.pubs %}
-[{{pub.title}}]({{pub.url}})<br />
+{% if pub.internal %}[{{pub.title}}]({{pub.url | prepend: site.baseurl}}){% else %}[{{pub.title}}]({{pub.url}}){% endif %}<br />
 {{pub.author}}<br />
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
@@ -173,7 +175,7 @@ conference_reviews:
 ## Invited talks
 
 {% for talk in page.talks %}
-- {{talk.date}}: {{talk.venue}} {% if talk.internal %}[[Details]({{site.production_url}}{{talk.url}})]{% else %}[[Details]({{talk.url}})]{% endif %}
+- {{talk.date}}: {{talk.venue}} {% if talk.internal %}[[Details]({{talk.url | prepend: site.baseurl}})]{% else %}[[Details]({{talk.url}})]{% endif %}
 {% endfor %}
 -->
 
