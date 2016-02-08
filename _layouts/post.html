@@ -13,7 +13,8 @@ layout: default
     {% if page.categories %}
     <p class="post-meta">Categories:
     {% for cat in page.categories %}
-    <a href="/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
+    <!-- <a href="{{/categories/#{{ cat }} | prepend: site.baseurl}}" title="{{ cat }}">{{ cat }}</a>&nbsp; -->
+    {{ cat }}&nbsp;
     {% endfor %}
 
     </p>

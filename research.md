@@ -165,7 +165,7 @@ conference_reviews:
 
 ## Ph.D. Thesis
 
-[Algorithms & perceptual analysis for interactive free viewpoint image-based navigation](/thesis/)<br>
+[Algorithms & perceptual analysis for interactive free viewpoint image-based navigation]({{ "/research/thesis/" | prepend: site.baseurl}})<br>
 [Inria](http://www.inria.fr/sophia), 2014.
 
 
