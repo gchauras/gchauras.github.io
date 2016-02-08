@@ -2,6 +2,9 @@ title: Gaurav Chaurasia
 description: Gaurav Chaurasia's webpage and blog
 sourcecode: "https://github.com/gchauras/www"
 
+permalink: blog/:year/:month/:day/:title
+exclude: ["Makefile", "README.md"]
+
 url: "http://people.csail.mit.edu"     # the base hostname & protocol for your site
 baseurl: "/gchauras"                   # the subpath of your site, e.g. /blog
 

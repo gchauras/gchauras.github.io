@@ -2,6 +2,7 @@
 layout: post
 title: "What is CS research"
 description: "Intellectual dilemma"
+categories:
 location: "Cambridge, MA"
 ---
 
