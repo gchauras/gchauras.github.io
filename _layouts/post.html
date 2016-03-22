@@ -4,7 +4,7 @@ layout: default
 <div class="post">
     <header class="post-header">
     <h1>{{ page.title }}</h1>
-    <p class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }} {% if page.author %}by {{ page.author }}{{% else %}}by {{ site.author_name }}{% endif %}{% if page.location %} ({{ page.location }}{% endif %})</p>
+    <p class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }} {% if page.author %}by {{ page.author }}{{% else %}}{% if site.author.name %}by {{ site.author.name }}{% endif %}{% endif %}{% if page.location %} ({{ page.location }}{% endif %})</p>
 
     {% if page.description %}
     <p class="post-meta">Description: {{ page.description }}</p>

@@ -4,6 +4,14 @@ permalink: /research/
 title: Research
 pubs:
 
+    - title:   "Underwater 3D capture using a low-cost commercial depth camera"
+      author:  "ST Digumarti, A. Taneja, A. Thomas, **G. Chaurasia**, R. Siegwart, P. Beardsley"
+      journal: "IEEE Winter Conference on Applications of Computer Vision"
+      note:    "WACV"
+      year:    "2016"
+      url:     "https://www.disneyresearch.com/publication/underwater-3d-capture/"
+      doi:     ""
+
     - title:   "Transform recipes for efficient cloud photo enhancement"
       author:  "M. Gharbi, Y. Shih, **G. Chaurasia**, J. Ragan-Kelley, S. Paris, F. Durand"
       journal: "ACM Trans. Graph."
