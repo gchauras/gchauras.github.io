@@ -11,6 +11,7 @@ pubs:
       year:    "2016"
       url:     "https://www.disneyresearch.com/publication/underwater-3d-capture/"
       doi:     ""
+      image:   "https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20160304050935/Underwater-3D-Capture-using-a-Low-Cost-Commercial-Depth-Camera-Image.png"
 
     - title:   "Transform recipes for efficient cloud photo enhancement"
       author:  "M. Gharbi, Y. Shih, **G. Chaurasia**, J. Ragan-Kelley, S. Paris, F. Durand"
@@ -19,6 +20,7 @@ pubs:
       year:    "2015"
       url:     "http://people.csail.mit.edu/gharbi/xform_recipe/"
       doi:     "http://dx.doi.org/10.1145/2816795.2818127"
+      image:   "http://people.csail.mit.edu/jrk/xform_thumb.png"
 
     - title:   "Multi view intrinsic decomposition & relighting"
       author:  "S. Duchene, C. Riant, **G. Chaurasia**, J. Lopez-Moreno, PY Laffont, S. Popov, A. Bousseau, G. Drettakis"
@@ -26,6 +28,7 @@ pubs:
       year:    "2015"
       url:     "http://www-sop.inria.fr/reves/Basilic/2015/DRCLLPD15/"
       doi:     "http://dx.doi.org/10.1145/2790060.2790063"
+      image:   "http://www-sop.inria.fr/reves/Basilic/2015/DRCLLPD15/ateaser.jpg"
 
     - title:   "Compiling high performance recursive filters"
       author:  "**G. Chaurasia**, J. Ragan-Kelley, S. Paris, G. Drettakis, F. Durand"
@@ -33,6 +36,7 @@ pubs:
       year:    "2015"
       url:     "http://mit-gfx.github.io/recfilter/"
       doi:     "http://dx.doi.org/10.1145/2790060.2790063"
+      image:   "http://www-sop.inria.fr/reves/Basilic/2015/CRPDD15a/image.jpg"
 
     - title:   "Is it possible to use highly realistic virtual reality in the elderly? A feasibility study with image-based rendering"
       author:  "M. Benoit, R. Guerchouche, PD Petit, E. Chapoulie, V. Manera, **G. Chaurasia**, G. Drettakis, P. Robert"
@@ -40,6 +44,7 @@ pubs:
       year:    "2015"
       url:     "http://www.dovepress.com/articles.php?article_id=20707"
       doi:     "http://dx.doi.org/10.2147/NDT.S73179"
+      image:   "http://www-sop.inria.fr/reves/Basilic/2015/BGPCMCDR15/Benoit.jpg"
 
     - title:   "Reminiscence therapy using image-based rendering in VR"
       author:  "E. Chapoulie, R. Guerchouche, PD Petit, **G. Chaurasia**, P. Robert, G. Drettakis"
@@ -47,6 +52,7 @@ pubs:
       year:    "2014"
       url:     "http://www-sop.inria.fr/reves/Basilic/2014/CGPCRD14/"
       doi:     "http://dx.doi.org/10.1109/VR.2014.6802049"
+      image:   "http://www-sop.inria.fr/reves/Basilic/2014/CGPCRD14/teaser.jpg"
 
     - title:   "Depth synthesis and local warps for plausible image-based navigation"
       author:  "**G. Chaurasia**, S. Duchene, O. Sorkine-Hornung, G. Drettakis"
@@ -54,6 +60,7 @@ pubs:
       year:    "2013"
       url:     "http://www-sop.inria.fr/reves/Basilic/2013/CDSD13/"
       doi:     "http://dx.doi.org/10.1145/2487228.2487238"
+      image:   "http://www-sop.inria.fr/reves/Basilic/2013/CDSD13/museum.jpg"
 
     - title:   "Perception of perspective distortions in image-based rendering"
       author:  "P. Vangorp, C. Richardt, EA Cooper, **G. Chaurasia**, MS Banks, G. Drettakis"
@@ -62,6 +69,7 @@ pubs:
       year:    "2013"
       url:     "http://www-sop.inria.fr/reves/Basilic/2013/VRCCBD13/"
       doi:     "http://dx.doi.org/10.1145/2461912.2461971"
+      image:   "http://www-sop.inria.fr/reves/Basilic/2013/VRCCBD13/experiment.png"
 
     - title:   "Silhouette-aware warping for image-based rendering"
       author:  "**G. Chaurasia**, O. Sorkine, G. Drettakis"
@@ -70,6 +78,7 @@ pubs:
       year:    "2011"
       url:     "http://www-sop.inria.fr/reves/Basilic/2011/CSD11/"
       doi:     "http://dx.doi.org/10.1111/j.1467-8659.2011.01981.x"
+      image:   "http://www-sop.inria.fr/reves/Basilic/2011/CSD11/result_tree.jpg"
 
     - title:   "Perception of visual artifacts in image-based rendering of facades"
       author:  "P. Vangorp, **G. Chaurasia**, PY Laffont, R. Fleming, G. Drettakis"
@@ -78,6 +87,7 @@ pubs:
       year:    "2011"
       url:     "http://www-sop.inria.fr/reves/Basilic/2011/VCLFD11/"
       doi:     "http://dx.doi.org/10.1111/j.1467-8659.2011.01983.x"
+      image:   "http://www-sop.inria.fr/reves/Basilic/2011/VCLFD11/VCLFD11-teaser.png"
 
     - title:   "A multimode immersive conceptual design system for architectural modeling and lighting"
       author:  "M. Cabral, P. Vangorp, **G. Chaurasia**, E. Chapoulie, M. Hachet, G. Drettakis"
@@ -85,6 +95,7 @@ pubs:
       year:    "2011"
       url:     "http://www-sop.inria.fr/reves/Basilic/2011/CVCCHD11/"
       doi:     "http://dx.doi.org/10.1109/3DUI.2011.5759211"
+      image:   "http://www-sop.inria.fr/reves/Basilic/2011/CVCCHD11/emmanuelle2.jpg"
 
     - title:   "Virtual chaotic traffic simulation"
       author:  "**G. Chaurasia**, BR Selvamani, N. Gupta, S. Kumar"
@@ -93,6 +104,7 @@ pubs:
       year:    "2010"
       url:     "/research/traffsim/"
       doi:     "http://dx.doi.org/10.1145/1924559.1924604"
+      image:   ""
       internal: "1"
 
 talks:
