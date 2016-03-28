@@ -10,8 +10,20 @@ pubs:
       note:    "WACV"
       year:    "2016"
       url:     "https://www.disneyresearch.com/publication/underwater-3d-capture/"
-      doi:     ""
       image:   "https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20160304050935/Underwater-3D-Capture-using-a-Low-Cost-Commercial-Depth-Camera-Image.png"
+      media:
+        - name: "Phys"
+          url:  "http://phys.org/news/2016-03-disney-depth-cameras-depths-high-accuracy.html"
+        - name: "ScientificComputing"
+          url:  "http://www.scientificcomputing.com/news/2016/03/disney-takes-cameras-depths-high-accuracy-3-d-capture"
+        - name: "Eurekalert"
+          url:  "http://www.eurekalert.org/pub_releases/2016-03/dr-drt030916.php"
+        - name: "AzoSensors"
+          url:  "http://www.azosensors.com/news.aspx?newsID=10925"
+        - name: "EScienceNews"
+          url:  "http://esciencenews.com/sources/physorg/2016/03/09/disney.researchers.take.depth.cameras.depths.high.accuracy.3.d.capture"
+        - name: "ScienceCodex"
+          url:  "http://www.sciencecodex.com/disney_researchers_take_depth_cameras_into_the_depths_for_highaccuracy_3d_capture-177491"
 
     - title:   "Transform recipes for efficient cloud photo enhancement"
       author:  "M. Gharbi, Y. Shih, **G. Chaurasia**, J. Ragan-Kelley, S. Paris, F. Durand"
@@ -178,7 +190,8 @@ conference_reviews:
 {{pub.author}}<br />
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
-{% endif %} *{{pub.year}}* [(doi)]({{pub.doi}})
+{% endif %} *{{pub.year}}* {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
+{% if pub.media %}<br />{% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
 {% endfor %}
 
 -----
