@@ -160,6 +160,9 @@ journal_reviews:
 
 conference_reviews:
 
+    - title: "High Performance Graphics 2016"
+      url:   "http://www.highperformancegraphics.org/2016/"
+
     - title: "SIGGRAPH 2016"
       url:   "http://http://s2016.siggraph.org/"
 
