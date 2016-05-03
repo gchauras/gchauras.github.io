@@ -30,7 +30,7 @@ pubs:
       journal: "ACM Trans. Graph."
       note:    "SIGGRAPH Asia"
       year:    "2015"
-      url:     "http://people.csail.mit.edu/gharbi/xform_recipe/"
+      url:     "https://groups.csail.mit.edu/graphics/xform_recipes/"
       doi:     "http://dx.doi.org/10.1145/2816795.2818127"
       image:   "http://people.csail.mit.edu/jrk/xform_thumb.png"
 
