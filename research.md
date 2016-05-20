@@ -133,56 +133,80 @@ talks:
 
 journal_reviews:
 
-    - title: "Visual Comput. 2016"
-      url:   "http://link.springer.com/journal/371"
-
-    - title: "ACM Trans. Graph. 2016"
+    - title: "ACM Trans. Graph."
       url:   "http://tog.acm.org"
+      years:
+        - year: 2016
 
-    - title: "Comput. Graph. Forum 2015"
-      url:   "http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291467-8659"
-
-    - title: "IEEE Signal Process. Lett. 2015"
-      url:    "http://www.signalprocessingsociety.org/publications/periodicals/letters/"
-
-    - title: "Comput. & Graph. 2015"
-      url:   "http://www.journals.elsevier.com/computers-and-graphics/"
-
-    - title: "IEEE Trans. Visual. Comput. Graph. 2015"
-      url:   "http://www.computer.org/web/tvcg"
-
-    - title: "ACM Trans. Appl. Percept. 2014"
+    - title: "ACM Trans. Appl. Percept."
       url:   "http://tap.acm.org"
+      years:
+        - year: 2014
 
-    - title: "J. Signal Image & Video Process. 2013"
+    - title: "IEEE Trans. Visual. Comput. Graph."
+      url:   "http://www.computer.org/web/tvcg"
+      years:
+        - year: 2015
+
+    - title: "Comput. Graph. Forum"
+      url:   "http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291467-8659"
+      years:
+        - year: 2015
+
+    - title: "Visual Comput."
+      url:   "http://link.springer.com/journal/371"
+      years:
+        - year: 2016
+
+    - title: "Comput. & Graph."
+      url:   "http://www.journals.elsevier.com/computers-and-graphics/"
+      years:
+        - year: 2015
+
+    - title: "IEEE Signal Process. Lett."
+      url:    "http://www.signalprocessingsociety.org/publications/periodicals/letters/"
+      years:
+        - year: 2015
+
+    - title: "J. Signal Image & Video Process."
       url:   "http://www.springer.com/engineering/signals/journal/11760"
+      years:
+        - year: 2013
 
 
 conference_reviews:
 
-    - title: "High Performance Graphics 2016"
-      url:   "http://www.highperformancegraphics.org/2016/"
+    - title: "SIGGRAPH"
+      years:
+        - year: 2016
+          url:  "http://http://s2016.siggraph.org/"
+        - year: 2012
+          url:  "http://s2012.siggraph.org/"
 
-    - title: "SIGGRAPH 2016"
-      url:   "http://http://s2016.siggraph.org/"
+    - title: "SIGGRAPH Asia"
+      years:
+        - year: 2013
+          url:  "http://sa2013.siggraph.org/en/"
 
-    - title: "Eurographics 2016"
-      url:   "http://eurographics2016.pt/"
+    - title: "Eurographics"
+      years:
+        - year: 2016
+          url:  "http://eurographics2016.pt/"
+        - year: 2012
+          url:  "http://www.eurographics2012.it/"
 
-    - title: "Pacific Graphics 2015"
-      url:   "http://cg.cs.tsinghua.edu.cn/pg2015/"
+    - title: "Pacific Graphics"
+      years:
+        - year: 2015
+          url:  "http://cg.cs.tsinghua.edu.cn/pg2015/"
+        - year: 2014
+          url:  "http://graphics.ewha.ac.kr/PG14/"
 
-    - title: "Pacific Graphics 2014"
-      url:   "http://graphics.ewha.ac.kr/PG14/"
+    - title: "High Performance Graphics"
+      years:
+        - year: 2016
+          url:  "http://www.highperformancegraphics.org/2016/"
 
-    - title: "SIGGRAPH Asia 2013"
-      url:   "http://sa2013.siggraph.org/en/"
-
-    - title: "SIGGRAPH 2012"
-      url:   "http://s2012.siggraph.org/"
-
-    - title: "Eurographics 2012"
-      url:   "http://www.eurographics2012.it/"
 
 ---
 
@@ -219,6 +243,11 @@ conference_reviews:
 
 ## Professional activities
 
-**Journal reviews**: {% for review in page.journal_reviews %}{% if review.url %}[{{review.title}}]({{review.url}}){% else %}{{review.title}}{% endif %}; {% endfor %}
+### Conference reviews
+{% for review in page.conference_reviews %}
+{{review.title}} {% for y in review.years %} [{% if y.url %}[{{y.year}}]({{y.url}}){% else %}{{y.year}}{% endif %}] {% endfor %}<br />{% endfor %}
 
-**Conference reviews**: {% for review in page.conference_reviews %}{% if review.url %}[{{review.title}}]({{review.url}}){% else %}{{review.title}}{% endif %}; {% endfor %}
+### Journal reviews
+{% for review in page.journal_reviews %}
+{{review.title}} {% for y in review.years %} [{% if review.url %}[{{y.year}}]({{review.url}}){% else %}{{y.year}}{% endif %}] {% endfor %}<br />{% endfor %}
+
