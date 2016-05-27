@@ -34,8 +34,8 @@ pubs:
       doi:     "http://dx.doi.org/10.1145/2816795.2818127"
       image:   "http://people.csail.mit.edu/jrk/xform_thumb.png"
       media:
-        name: "Phys"
-        url:  "http://phys.org/news/2015-11-technique-mobile-image-cloud-bandwidth.html"
+        - name: "Phys"
+          url:  "http://phys.org/news/2015-11-technique-mobile-image-cloud-bandwidth.html"
 
     - title:   "Multi view intrinsic decomposition & relighting"
       author:  "S. Duchene, C. Riant, <u>G. Chaurasia</u>, J. Lopez-Moreno, PY Laffont, S. Popov, A. Bousseau, G. Drettakis"
@@ -149,6 +149,7 @@ journal_reviews:
       url:   "http://www.computer.org/web/tvcg"
       years:
         - year: 2015
+        - year: 2016
 
     - title: "Comput. Graph. Forum"
       url:   "http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291467-8659"
@@ -180,29 +181,31 @@ conference_reviews:
 
     - title: "SIGGRAPH"
       years:
-        - year: 2016
-          url:  "http://http://s2016.siggraph.org/"
         - year: 2012
           url:  "http://s2012.siggraph.org/"
+        - year: 2016
+          url:  "http://s2016.siggraph.org/"
 
     - title: "SIGGRAPH Asia"
       years:
         - year: 2013
           url:  "http://sa2013.siggraph.org/en/"
+        - year: 2016
+          url:  "http://sa2016.siggraph.org/en/"
 
     - title: "Eurographics"
       years:
-        - year: 2016
-          url:  "http://eurographics2016.pt/"
         - year: 2012
           url:  "http://www.eurographics2012.it/"
+        - year: 2016
+          url:  "http://eurographics2016.pt/"
 
     - title: "Pacific Graphics"
       years:
-        - year: 2015
-          url:  "http://cg.cs.tsinghua.edu.cn/pg2015/"
         - year: 2014
           url:  "http://graphics.ewha.ac.kr/PG14/"
+        - year: 2015
+          url:  "http://cg.cs.tsinghua.edu.cn/pg2015/"
 
     - title: "High Performance Graphics"
       years:
@@ -225,7 +228,7 @@ conference_reviews:
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
 {% endif %} *{{pub.year}}* {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
-{% if pub.media %}<br />{% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
+{% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
 
 {% endfor %}
 
