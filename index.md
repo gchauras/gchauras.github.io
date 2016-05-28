@@ -17,7 +17,7 @@ at [Indian Institute of Technology Delhi].
 
 Disney Research Zurich<br />
 Stampfenbachstrasse 48<br />
-Zurich 8047, Switzerland<br />
+Zurich 8006, Switzerland<br />
 Email: [gchauras@mit.edu], [gaurav.chaurasia@disneyresearch.com]
 
 You can find some professional details about me on [Google Scholar].
