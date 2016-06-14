@@ -9,6 +9,7 @@ pubs:
       journal: "IEEE Winter Conference on Applications of Computer Vision"
       note:    "WACV"
       year:    "2016"
+      doi:     "http://dx.doi.org/10.1109/WACV.2016.7477644"
       url:     "https://www.disneyresearch.com/publication/underwater-3d-capture/"
       image:   "https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20160304050935/Underwater-3D-Capture-using-a-Low-Cost-Commercial-Depth-Camera-Image.png"
       media:
