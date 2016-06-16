@@ -35,8 +35,8 @@ pubs:
       doi:     "http://dx.doi.org/10.1145/2816795.2818127"
       image:   "http://people.csail.mit.edu/jrk/xform_thumb.png"
       media:
-        name: "Phys"
-        url:  "http://phys.org/news/2015-11-technique-mobile-image-cloud-bandwidth.html"
+        - name: "Phys"
+          url:  "http://phys.org/news/2015-11-technique-mobile-image-cloud-bandwidth.html"
 
     - title:   "Multi view intrinsic decomposition & relighting"
       author:  "S. Duchene, C. Riant, <u>G. Chaurasia</u>, J. Lopez-Moreno, PY Laffont, S. Popov, A. Bousseau, G. Drettakis"
