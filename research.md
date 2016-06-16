@@ -5,7 +5,7 @@ title: Research
 pubs:
 
     - title:   "Underwater 3D capture using a low-cost commercial depth camera"
-      author:  "ST Digumarti, A. Taneja, A. Thomas, <u>G. Chaurasia</u>, R. Siegwart, P. Beardsley"
+      author:  "ST Digumarti, <u>G. Chaurasia</u>, A. Taneja, A. Thomas, R. Siegwart, P. Beardsley"
       journal: "IEEE Winter Conference on Applications of Computer Vision"
       note:    "WACV"
       year:    "2016"
