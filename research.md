@@ -207,6 +207,8 @@ conference_reviews:
           url:  "http://graphics.ewha.ac.kr/PG14/"
         - year: 2015
           url:  "http://cg.cs.tsinghua.edu.cn/pg2015/"
+        - year: 2016
+          url:  "https://indico.oist.jp/indico/event/0/"
 
     - title: "High Performance Graphics"
       years:
