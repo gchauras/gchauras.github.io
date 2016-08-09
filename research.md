@@ -175,7 +175,7 @@ journal_reviews:
         - year: 2015
 
     - title: "IEEE Signal Process. Lett."
-      url:    "http://www.signalprocessingsociety.org/publications/periodicals/letters/"
+      url:   "http://www.signalprocessingsociety.org/publications/periodicals/letters/"
       years:
         - year: 2015
 
@@ -222,7 +222,10 @@ conference_reviews:
         - year: 2016
           url:  "http://www.highperformancegraphics.org/2016/"
 
-
+    - title: "Virtual Reality Science & Technology (VRST)"
+      years:
+        - year: 2016
+          url:  "http://www.vrst2016.lrz.de/"
 ---
 
 ## Publications (peer reviewed)
