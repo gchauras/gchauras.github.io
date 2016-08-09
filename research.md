@@ -4,6 +4,13 @@ permalink: /research/
 title: Research
 pubs:
 
+    - title:   "Deep joint demosaicking and denoising"
+      author:  "M. Gharbi, <u>G. Chaurasia</u>, S. Paris, F. Durand"
+      journal: "SIGGRAPH Asia"
+      note:    "conditionally accepted"
+      year:    "2016"
+      url:     ""
+
     - title:   "Underwater 3D capture using a low-cost commercial depth camera"
       author:  "ST Digumarti, <u>G. Chaurasia</u>, A. Taneja, A. Thomas, R. Siegwart, P. Beardsley"
       journal: "IEEE Winter Conference on Applications of Computer Vision"
