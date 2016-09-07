@@ -3,14 +3,17 @@
     position: relative;
     text-transform: uppercase;
     font-size: $small-font-size;
+    color: $header-text-color;
     @extend %clearfix;
 }
 
-.site-header, .site-header a {
+.site-header a {
     color: $header-text-color;
+    border-bottom: 0px;
 }
 .site-header a:hover {
     color: $header-hover-color;
+    border-bottom: 0px;
     text-decoration: none;
 }
 

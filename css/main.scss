@@ -23,8 +23,8 @@ $background:        $grey-vlight;
 $dark-background:   darken($background, 5%);
 $text-color:        $grey-vdark;
 $text-light-color:  $grey;
-$url-color:         $red;
-$url-hover-color:   $orange;
+$url-color:         $text-color; //$red
+$url-hover-color:   $text-color; //$orange;
 $header-text-color: $text-light-color;
 $header-hover-color:$text-color;
 $header-hover-url:  $url-color;

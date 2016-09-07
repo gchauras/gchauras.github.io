@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/photo.jpg" caption="New York (Mar 2015)" width="300px" align="right" %}
+<!-- {% include image.html url="images/photo.jpg" caption="New York (Mar 2015)" width="300px" align="right" %} -->
 
 I am a postdoc in the vision group at [Disney Research Zurich].
 Previously, I was a postdoc working with [Fredo Durand] and [Sylvain Paris]
