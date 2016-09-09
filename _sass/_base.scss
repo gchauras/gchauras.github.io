@@ -19,6 +19,11 @@ body {
     background-color: $background;
     margin: 0 $spacing-unit/2;
     -webkit-text-size-adjust: 100%;
+
+    -ms-font-feature-settings:     'smcp' 1, 'liga' 1;  /* IE10 */
+    -moz-font-feature-settings:    'smcp' 1, 'liga' 1;  /* Firefox */
+    -webkit-font-feature-settings: 'smcp' 1, 'liga' 1;  /* Chrome, Safari, Opera */
+    font-feature-settings:         'smcp' 1, 'liga' 1;  /* Future-proof! */
 }
 
 
