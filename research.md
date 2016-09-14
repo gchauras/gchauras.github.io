@@ -5,14 +5,14 @@ title: Research
 pubs:
 
     - title:   "Deep joint demosaicking and denoising"
-      author:  "M. Gharbi, **G. Chaurasia**, S. Paris, F. Durand"
+      author:  "M. Gharbi, G. Chaurasia, S. Paris, F. Durand"
       journal: "SIGGRAPH Asia"
       note:    "conditionally accepted"
       year:    "2016"
       url:     ""
 
     - title:   "Underwater 3D capture using a low-cost commercial depth camera"
-      author:  "ST Digumarti, **G. Chaurasia**, A. Taneja, A. Thomas, R. Siegwart, P. Beardsley"
+      author:  "ST Digumarti, G. Chaurasia, A. Taneja, A. Thomas, R. Siegwart, P. Beardsley"
       journal: "IEEE Winter Conference on Applications of Computer Vision"
       note:    "WACV"
       year:    "2016"
@@ -34,7 +34,7 @@ pubs:
           url:  "http://www.sciencecodex.com/disney_researchers_take_depth_cameras_into_the_depths_for_highaccuracy_3d_capture-177491"
 
     - title:   "Transform recipes for efficient cloud photo enhancement"
-      author:  "M. Gharbi, Y. Shih, **G. Chaurasia**, J. Ragan-Kelley, S. Paris, F. Durand"
+      author:  "M. Gharbi, Y. Shih, G. Chaurasia, J. Ragan-Kelley, S. Paris, F. Durand"
       journal: "ACM Trans. Graph."
       note:    "SIGGRAPH Asia"
       year:    "2015"
@@ -46,7 +46,7 @@ pubs:
           url:  "http://phys.org/news/2015-11-technique-mobile-image-cloud-bandwidth.html"
 
     - title:   "Multi view intrinsic decomposition & relighting"
-      author:  "S. Duchene, C. Riant, **G. Chaurasia**, J. Lopez-Moreno, PY Laffont, S. Popov, A. Bousseau, G. Drettakis"
+      author:  "S. Duchene, C. Riant, G. Chaurasia, J. Lopez-Moreno, PY Laffont, S. Popov, A. Bousseau, G. Drettakis"
       journal: "ACM Trans. Graph."
       year:    "2015"
       url:     "http://www-sop.inria.fr/reves/Basilic/2015/DRCLLPD15/"
@@ -54,7 +54,7 @@ pubs:
       image:   "http://www-sop.inria.fr/reves/Basilic/2015/DRCLLPD15/ateaser.jpg"
 
     - title:   "Compiling high performance recursive filters"
-      author:  "**G. Chaurasia**, J. Ragan-Kelley, S. Paris, G. Drettakis, F. Durand"
+      author:  "G. Chaurasia, J. Ragan-Kelley, S. Paris, G. Drettakis, F. Durand"
       journal: "High Performance Graphics"
       year:    "2015"
       url:     "http://mit-gfx.github.io/recfilter/"
@@ -62,7 +62,7 @@ pubs:
       image:   "http://www-sop.inria.fr/reves/Basilic/2015/CRPDD15a/image.jpg"
 
     - title:   "Is it possible to use highly realistic virtual reality in the elderly? A feasibility study with image-based rendering"
-      author:  "M. Benoit, R. Guerchouche, PD Petit, E. Chapoulie, V. Manera, **G. Chaurasia**, G. Drettakis, P. Robert"
+      author:  "M. Benoit, R. Guerchouche, PD Petit, E. Chapoulie, V. Manera, G. Chaurasia, G. Drettakis, P. Robert"
       journal: "Journal of Neuropsychiatric Disease and Treatment"
       year:    "2015"
       url:     "http://www.dovepress.com/articles.php?article_id=20707"
@@ -70,7 +70,7 @@ pubs:
       image:   "http://www-sop.inria.fr/reves/Basilic/2015/BGPCMCDR15/Benoit.jpg"
 
     - title:   "Reminiscence therapy using image-based rendering in VR"
-      author:  "E. Chapoulie, R. Guerchouche, PD Petit, **G. Chaurasia**, P. Robert, G. Drettakis"
+      author:  "E. Chapoulie, R. Guerchouche, PD Petit, G. Chaurasia, P. Robert, G. Drettakis"
       journal: "IEEE Virtual Reality"
       year:    "2014"
       url:     "http://www-sop.inria.fr/reves/Basilic/2014/CGPCRD14/"
@@ -78,7 +78,7 @@ pubs:
       image:   "http://www-sop.inria.fr/reves/Basilic/2014/CGPCRD14/teaser.jpg"
 
     - title:   "Depth synthesis and local warps for plausible image-based navigation"
-      author:  "**G. Chaurasia**, S. Duchene, O. Sorkine-Hornung, G. Drettakis"
+      author:  "G. Chaurasia, S. Duchene, O. Sorkine-Hornung, G. Drettakis"
       journal: "ACM Trans. Graph."
       year:    "2013"
       url:     "http://www-sop.inria.fr/reves/Basilic/2013/CDSD13/"
@@ -86,7 +86,7 @@ pubs:
       image:   "http://www-sop.inria.fr/reves/Basilic/2013/CDSD13/museum.jpg"
 
     - title:   "Perception of perspective distortions in image-based rendering"
-      author:  "P. Vangorp, C. Richardt, EA Cooper, **G. Chaurasia**, MS Banks, G. Drettakis"
+      author:  "P. Vangorp, C. Richardt, EA Cooper, G. Chaurasia, MS Banks, G. Drettakis"
       journal: "ACM Trans. Graph."
       note:    "SIGGRAPH"
       year:    "2013"
@@ -95,7 +95,7 @@ pubs:
       image:   "http://www-sop.inria.fr/reves/Basilic/2013/VRCCBD13/experiment.png"
 
     - title:   "Silhouette-aware warping for image-based rendering"
-      author:  "**G. Chaurasia**, O. Sorkine, G. Drettakis"
+      author:  "G. Chaurasia, O. Sorkine, G. Drettakis"
       journal: "Comput. Graph. Forum"
       note:    "EGSR"
       year:    "2011"
@@ -104,7 +104,7 @@ pubs:
       image:   "http://www-sop.inria.fr/reves/Basilic/2011/CSD11/result_tree.jpg"
 
     - title:   "Perception of visual artifacts in image-based rendering of facades"
-      author:  "P. Vangorp, **G. Chaurasia**, PY Laffont, R. Fleming, G. Drettakis"
+      author:  "P. Vangorp, G. Chaurasia, PY Laffont, R. Fleming, G. Drettakis"
       journal: "Comput. Graph. Forum"
       note:    "EGSR"
       year:    "2011"
@@ -113,7 +113,7 @@ pubs:
       image:   "http://www-sop.inria.fr/reves/Basilic/2011/VCLFD11/VCLFD11-teaser.png"
 
     - title:   "A multimode immersive conceptual design system for architectural modeling and lighting"
-      author:  "M. Cabral, P. Vangorp, **G. Chaurasia**, E. Chapoulie, M. Hachet, G. Drettakis"
+      author:  "M. Cabral, P. Vangorp, G. Chaurasia, E. Chapoulie, M. Hachet, G. Drettakis"
       journal: "IEEE Symposium on 3D User Interfaces"
       year:    "2011"
       url:     "http://www-sop.inria.fr/reves/Basilic/2011/CVCCHD11/"
@@ -121,7 +121,7 @@ pubs:
       image:   "http://www-sop.inria.fr/reves/Basilic/2011/CVCCHD11/emmanuelle2.jpg"
 
     - title:   "Virtual chaotic traffic simulation"
-      author:  "**G. Chaurasia**, BR Selvamani, N. Gupta, S. Kumar"
+      author:  "G. Chaurasia, BR Selvamani, N. Gupta, S. Kumar"
       journal: "Indian Conference on Computer Vision, Graphics and Image Processing"
       note:    "ICVGIP"
       year:    "2010"
@@ -236,8 +236,8 @@ conference_reviews:
 {% if pub.image %}
 {% include image.html url=pub.image caption="" height="80px" align=thumbnail %}
 {% endif %}
-**{{pub.title}}**<br />
 {{pub.author}}<br />
+**{{pub.title}}**<br />
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
 {% endif %} *{{pub.year}}* <br />
@@ -249,7 +249,7 @@ conference_reviews:
 
 -----
 
-## Ph.D. Thesis
+## Doctoral Thesis
 
 Algorithms & perceptual analysis for interactive free viewpoint image-based navigation<br />
 [Inria](http://www.inria.fr/sophia), 2014<br />

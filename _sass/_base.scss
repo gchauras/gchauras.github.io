@@ -26,13 +26,22 @@ body {
     font-feature-settings:         'smcp' 1, 'liga' 1;  /* Future-proof! */
 }
 
+//  Headings
+h1, h2, h3, h4, h5, h6 {
+    font-family: $heading-font-family;
+    font-size:   $heading-font-size;
+    line-height: $heading-line-height;
+    color:       $text-color;
+    font-weight: bold;
+    text-transform: uppercase;
+}
 
 // Set `margin-bottom` to maintain vertical rhythm
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-    margin-bottom: $spacing-unit/2;
+    margin-bottom: 0; //$spacing-unit/2;
 }
 
 hr {
@@ -41,7 +50,6 @@ hr {
     border-style: inset;
     border-top: 1px solid $line-color;
     border-bottom: none;
-
 }
 
 // Images
@@ -70,11 +78,6 @@ li {
     > ol {
          margin-bottom: 0;
     }
-}
-
-//  Headings
-h1, h2, h3, h4, h5, h6 {
-    font-weight: bold;
 }
 
 // Links

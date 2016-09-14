@@ -1,8 +1,10 @@
 .site-header {
     border-bottom: 1px solid $line-color;
     position: relative;
+    font-family: $heading-font-family;
+    font-size:   $heading-font-family;
+    font-weight: bold;
     text-transform: uppercase;
-    font-size: $small-font-size;
     color: $header-text-color;
     @extend %clearfix;
 }

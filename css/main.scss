@@ -3,11 +3,16 @@
 ---
 @charset "utf-8";
 
+$heading-font-family:'Source Sans Pro', sans-serif;
+$heading-font-size:   medium;
+$heading-line-height: 1.5;
+
 $base-font-family: 'EB Garamond', serif;
 $base-font-size:   large;
+$base-line-height: 1.5;
+
 $small-font-size:  0.875em;
 $vsmall-font-size: 0.66em;
-$base-line-height: 1.5;
 $spacing-unit:     1.5em;
 
 $grey-vlight:#eee;
@@ -44,6 +49,7 @@ $desktop:          50em;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
+    "fonts",
     "header",
     "mobile-header",
     "base",
