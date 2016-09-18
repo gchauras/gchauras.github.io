@@ -24,6 +24,8 @@ You can find some professional details about me on [Google Scholar].
 I enthusiastically hand over personal data to big companies for free,
 predominantly via my [facebook] account.
 
+My [academic lineage](files/GauravChaurasia_academic_lineage.pdf)
+includes some Gods (courtesy [Peter Vangorp]).
 
 [Disney Research Zurich]: http://www.disneyresearch.com/research-labs/disney-research-zurich/
 [INRIA]: https://team.inria.fr/graphdeco/
@@ -37,3 +39,4 @@ predominantly via my [facebook] account.
 [Google Scholar]: http://scholar.google.fr/citations?user={{site.author.scholar}}&hl=en&oi=ao
 [gchauras@mit.edu]: mailto:gchauras@mit.edu
 [gaurav.chaurasia@disneyresearch.com]: mailto:gaurav.chaurasia@disneyresearch.com
+[Peter Vangorp]: http://users.telenet.be/pvangorp/
