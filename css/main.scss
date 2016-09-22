@@ -4,18 +4,18 @@
 @charset "utf-8";
 
 $heading-font-family:'Source Sans Pro', sans-serif;
-$heading-font-size:   medium;
+$heading-font-size:   16pt;
 $heading-line-height: 1.5;
 
 $base-font-family: 'EB Garamond', serif;
-$base-font-size:   large;
+$base-font-size:   20pt;
 $base-line-height: 1.5;
 
 $small-font-size:  0.875em;
 $vsmall-font-size: 0.66em;
 $spacing-unit:     1.5em;
 
-$grey-vlight:#eee;
+$grey-vlight:#fefefe;
 $grey-light: #ccc;
 $grey:       #888;
 $grey-dark:  #444;
@@ -28,8 +28,8 @@ $background:        $grey-vlight;
 $dark-background:   darken($background, 5%);
 $text-color:        $grey-vdark;
 $text-light-color:  $grey;
-$url-color:         $text-color; //$red
-$url-hover-color:   $text-color; //$orange;
+$url-color:         $red;
+$url-hover-color:   $orange;
 $header-text-color: $text-light-color;
 $header-hover-color:$text-color;
 $header-hover-url:  $url-color;
@@ -49,7 +49,7 @@ $desktop:          50em;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-    "fonts",
+    // "fonts",
     "header",
     "mobile-header",
     "base",
