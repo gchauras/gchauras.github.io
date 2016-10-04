@@ -6,10 +6,10 @@ pubs:
 
     - title:   "Deep joint demosaicking and denoising"
       author:  "M. Gharbi, G. Chaurasia, S. Paris, F. Durand"
-      journal: "SIGGRAPH Asia"
-      note:    "conditionally accepted"
+      journal: "ACM Trans. Graph."
+      note:    "SIGGRAPH Asia"
       year:    "2016"
-      url:     ""
+      url:     "https://groups.csail.mit.edu/graphics/demosaicnet/"
 
     - title:   "Underwater 3D capture using a low-cost commercial depth camera"
       author:  "ST Digumarti, G. Chaurasia, A. Taneja, A. Thomas, R. Siegwart, P. Beardsley"

@@ -13,6 +13,10 @@ at [INRIA] in the beautiful French Riviera. I obtained my Masters degree in
 computer science at [ENSIMAG]. In an earlier life, I used to be an undergrad
 at [Indian Institute of Technology Delhi].
 
+## News
+
+We are looking for a student to work on [M.Sc. thesis topic](https://sirop.org/app/eb2713ed-dd02-4755-b4ce-910b6f64ec4c) in collaboration with [CVG lab](http://www.cvg.ethz.ch/).
+
 ## Contact
 
 Disney Research Zurich<br />
