@@ -10,6 +10,7 @@ pubs:
       note:    "SIGGRAPH Asia"
       year:    "2016"
       url:     "https://groups.csail.mit.edu/graphics/demosaicnet/"
+      doi:     "http://doi.acm.org/10.1145/2980179.2982399"
 
     - title:   "Underwater 3D capture using a low-cost commercial depth camera"
       author:  "ST Digumarti, G. Chaurasia, A. Taneja, A. Thomas, R. Siegwart, P. Beardsley"
@@ -233,9 +234,9 @@ conference_reviews:
 {% assign thumbnail="right" %}
 
 {% for pub in page.pubs %}
-{% if pub.image %}
+<!-- {% if pub.image %}
 {% include image.html url=pub.image caption="" height="80px" align=thumbnail %}
-{% endif %}
+{% endif %} -->
 {{pub.author}}<br />
 **{{pub.title}}**<br />
 *{{pub.journal}}*

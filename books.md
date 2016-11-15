@@ -4,14 +4,14 @@ permalink: /misc/books.html
 title: Books
 ---
 
-I like reading classics -- they never disappoint. My all time favourite is 1984 by George Orwell. I used to be a big fan of Enid Blyton as a kid; someday childhood will return and I will read more of those gemstones. Until then, I'd like to buy:
+I like reading classics -- they never disappoint. My all time favourites is 1984 by George Orwell (of course); Hemingway's war descriptions, Wilde and Kafka. I used to be a big fan of Enid Blyton as a kid; someday childhood will return and I will read more of those gemstones. Until then, I'd like to buy:
 
-- Midnight children by Salman Rushdie
-- Inferno by Dante
+- Franz Kafka's books
 - Ulysees by James Joyce
 - War and peace by Leo Tolstoy
 - Hitchhikers guide to the galaxy (all parts)
 - La dame aux camilias by Alexandre Dumas *fils*
+- Madame Bovary by Gustave Flabert
 - Capital in 21st century by Thomas Piketty
 - Inequalities of income by Thomas Piketty
 - Fault Line: How Hidden Fractures Still Threaten the World Economy by Raghuram Rajan
