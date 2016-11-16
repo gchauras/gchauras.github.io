@@ -22,7 +22,7 @@ We are looking for a student to work on [M.Sc. thesis topic](https://sirop.org/a
 Disney Research Zurich<br />
 Stampfenbachstrasse 48<br />
 Zurich 8006, Switzerland<br />
-Email: [gchauras@mit.edu], [gaurav.chaurasia@disneyresearch.com]
+Email: [gaurav.chaurasia@inf.ethz.ch], [gaurav.chaurasia@disneyresearch.com]
 
 You can find some professional details about me on [Google Scholar].
 I enthusiastically hand over personal data to big companies for free,
