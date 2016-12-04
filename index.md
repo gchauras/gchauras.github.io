@@ -22,7 +22,8 @@ We are looking for a student to work on [M.Sc. thesis topic](https://sirop.org/a
 Disney Research Zurich<br />
 Stampfenbachstrasse 48<br />
 Zurich 8006, Switzerland<br />
-Email: [gaurav.chaurasia@inf.ethz.ch], [gaurav.chaurasia@disneyresearch.com]
+Email (all others):     [cgaurav@inf.ethz.ch] <br />
+Email (Disney related): [gaurav.chaurasia@disneyresearch.com]
 
 You can find some professional details about me on [Google Scholar].
 I enthusiastically hand over personal data to big companies for free,
@@ -41,6 +42,6 @@ includes some Gods (courtesy [Peter Vangorp]).
 [MIT]: http://www.csail.mit.edu/
 [facebook]: http://www.facebook.com/{{site.author.facebook}}
 [Google Scholar]: http://scholar.google.fr/citations?user={{site.author.scholar}}&hl=en&oi=ao
-[gaurav.chaurasia@inf.ethz.ch]: mailto:gaurav.chaurasia@inf.ethz.ch
+[cgaurav@inf.ethz.ch]: mailto:cgaurav@inf.ethz.ch
 [gaurav.chaurasia@disneyresearch.com]: mailto:gaurav.chaurasia@disneyresearch.com
 [Peter Vangorp]: http://users.telenet.be/pvangorp/
