@@ -174,6 +174,7 @@ journal_reviews:
       url:   "http://www.journals.elsevier.com/computers-and-graphics/"
       years:
         - year: 2015
+        - year: 2017
 
     - title: "IEEE Signal Process. Lett."
       url:   "http://www.signalprocessingsociety.org/publications/periodicals/letters/"
