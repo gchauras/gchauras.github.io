@@ -169,6 +169,7 @@ journal_reviews:
       url:   "http://link.springer.com/journal/371"
       years:
         - year: 2016
+        - year: 2017
 
     - title: "Comput. & Graph."
       url:   "http://www.journals.elsevier.com/computers-and-graphics/"
