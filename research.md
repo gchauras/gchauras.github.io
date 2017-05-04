@@ -6,7 +6,7 @@ pubs:
 
     - title:   "Deep joint demosaicking and denoising"
       author:  "M. Gharbi, G. Chaurasia, S. Paris, F. Durand"
-      journal: "ACM Trans. Graph."
+      journal: "ACM Transactions on Graphics"
       note:    "SIGGRAPH Asia"
       year:    "2016"
       url:     "https://groups.csail.mit.edu/graphics/demosaicnet/"
@@ -36,7 +36,7 @@ pubs:
 
     - title:   "Transform recipes for efficient cloud photo enhancement"
       author:  "M. Gharbi, Y. Shih, G. Chaurasia, J. Ragan-Kelley, S. Paris, F. Durand"
-      journal: "ACM Trans. Graph."
+      journal: "ACM Transactions on Graphics"
       note:    "SIGGRAPH Asia"
       year:    "2015"
       url:     "https://groups.csail.mit.edu/graphics/xform_recipes/"
@@ -48,7 +48,8 @@ pubs:
 
     - title:   "Multi view intrinsic decomposition & relighting"
       author:  "S. Duchene, C. Riant, G. Chaurasia, J. Lopez-Moreno, PY Laffont, S. Popov, A. Bousseau, G. Drettakis"
-      journal: "ACM Trans. Graph."
+      journal: "ACM Transactions on Graphics"
+      note:    "presented at SIGGRAPH"
       year:    "2015"
       url:     "http://www-sop.inria.fr/reves/Basilic/2015/DRCLLPD15/"
       doi:     "http://dx.doi.org/10.1145/2790060.2790063"
@@ -80,7 +81,8 @@ pubs:
 
     - title:   "Depth synthesis and local warps for plausible image-based navigation"
       author:  "G. Chaurasia, S. Duchene, O. Sorkine-Hornung, G. Drettakis"
-      journal: "ACM Trans. Graph."
+      journal: "ACM Transactions on Graphics"
+      note:    "presented at SIGGRAPH"
       year:    "2013"
       url:     "http://www-sop.inria.fr/reves/Basilic/2013/CDSD13/"
       doi:     "http://dx.doi.org/10.1145/2487228.2487238"
@@ -88,7 +90,7 @@ pubs:
 
     - title:   "Perception of perspective distortions in image-based rendering"
       author:  "P. Vangorp, C. Richardt, EA Cooper, G. Chaurasia, MS Banks, G. Drettakis"
-      journal: "ACM Trans. Graph."
+      journal: "ACM Transactions on Graphics"
       note:    "SIGGRAPH"
       year:    "2013"
       url:     "http://www-sop.inria.fr/reves/Basilic/2013/VRCCBD13/"
@@ -97,7 +99,7 @@ pubs:
 
     - title:   "Silhouette-aware warping for image-based rendering"
       author:  "G. Chaurasia, O. Sorkine, G. Drettakis"
-      journal: "Comput. Graph. Forum"
+      journal: "Computer Graphics Forum"
       note:    "EGSR"
       year:    "2011"
       url:     "http://www-sop.inria.fr/reves/Basilic/2011/CSD11/"
@@ -106,7 +108,7 @@ pubs:
 
     - title:   "Perception of visual artifacts in image-based rendering of facades"
       author:  "P. Vangorp, G. Chaurasia, PY Laffont, R. Fleming, G. Drettakis"
-      journal: "Comput. Graph. Forum"
+      journal: "Computer Graphics Forum"
       note:    "EGSR"
       year:    "2011"
       url:     "http://www-sop.inria.fr/reves/Basilic/2011/VCLFD11/"
@@ -116,6 +118,7 @@ pubs:
     - title:   "A multimode immersive conceptual design system for architectural modeling and lighting"
       author:  "M. Cabral, P. Vangorp, G. Chaurasia, E. Chapoulie, M. Hachet, G. Drettakis"
       journal: "IEEE Symposium on 3D User Interfaces"
+      note:    "IEEE 3DUI"
       year:    "2011"
       url:     "http://www-sop.inria.fr/reves/Basilic/2011/CVCCHD11/"
       doi:     "http://dx.doi.org/10.1109/3DUI.2011.5759211"
@@ -144,45 +147,45 @@ talks:
 
 journal_reviews:
 
-    - title: "ACM Trans. Graph."
+    - title: "ACM Transactions on Graphics"
       url:   "http://tog.acm.org"
       years:
         - year: 2016
 
-    - title: "ACM Trans. Appl. Percept."
+    - title: "ACM Transactions on Applied Perception"
       url:   "http://tap.acm.org"
       years:
         - year: 2014
 
-    - title: "IEEE Trans. Visual. Comput. Graph."
+    - title: "IEEE Transactions on Visualization and Computer Graphics"
       url:   "http://www.computer.org/web/tvcg"
       years:
         - year: 2015
         - year: 2016
 
-    - title: "Comput. Graph. Forum"
+    - title: "Computer Graphics Forum"
       url:   "http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291467-8659"
       years:
         - year: 2015
 
-    - title: "Visual Comput."
+    - title: "The Visual Computer"
       url:   "http://link.springer.com/journal/371"
       years:
         - year: 2016
         - year: 2017
 
-    - title: "Comput. & Graph."
+    - title: "Computers and Graphics"
       url:   "http://www.journals.elsevier.com/computers-and-graphics/"
       years:
         - year: 2015
         - year: 2017
 
-    - title: "IEEE Signal Process. Lett."
+    - title: "IEEE Signal Processing Letters"
       url:   "http://www.signalprocessingsociety.org/publications/periodicals/letters/"
       years:
         - year: 2015
 
-    - title: "J. Signal Image & Video Process."
+    - title: "Journal of Signal Image and Video Processing"
       url:   "http://www.springer.com/engineering/signals/journal/11760"
       years:
         - year: 2013
@@ -254,8 +257,9 @@ conference_reviews:
 
 ## Doctoral Thesis
 
-Algorithms & perceptual analysis for interactive free viewpoint image-based navigation<br />
-[Inria](http://www.inria.fr/sophia), 2014<br />
+**Algorithms & perceptual analysis for interactive free viewpoint image-based navigation**<br />
+*Adviser: [George Drettakis](http://www-sop.inria.fr/members/George.Drettakis)* <br />
+[INRIA](http://www.inria.fr/sophia), 2014<br />
 [www]({{ "/research/thesis/" | prepend: site.baseurl}})
 
 ------

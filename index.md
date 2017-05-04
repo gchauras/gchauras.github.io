@@ -41,7 +41,7 @@ includes some Gods (courtesy [Peter Vangorp]).
 [Sylvain Paris]: http://people.csail.mit.edu/sparis/
 [MIT]: http://www.csail.mit.edu/
 [facebook]: http://www.facebook.com/{{site.author.facebook}}
-[Google Scholar]: http://scholar.google.fr/citations?user={{site.author.scholar}}&hl=en&oi=ao
+[Google Scholar]: http://scholar.google.com/citations?user={{site.author.scholar}}&hl=en&oi=ao
 [cgaurav@inf.ethz.ch]: mailto:cgaurav@inf.ethz.ch
 [gaurav.chaurasia@disneyresearch.com]: mailto:gaurav.chaurasia@disneyresearch.com
 [Peter Vangorp]: http://users.telenet.be/pvangorp/
