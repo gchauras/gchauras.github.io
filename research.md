@@ -206,6 +206,8 @@ conference_reviews:
           url:  "http://sa2013.siggraph.org/en/"
         - year: 2016
           url:  "http://sa2016.siggraph.org/en/"
+        - year: 2017
+          url:  "http://sa2017.siggraph.org/en/"
 
     - title: "Eurographics"
       years:

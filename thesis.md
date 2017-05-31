@@ -45,7 +45,7 @@ designed on sound perceptually-based foundations.
 
 ----
 
-  * [Low res version](http://tel.archives-ouvertes.fr/docs/00/97/99/13/PDF/thesis.pdf) (15 MB): hosted at [HAL-INRIA](http://hal.inria.fr/index.php?halsid=d2p3vgd7l7v5iv7dqapvo20204&view_this_doc=tel-00979913&version=1) and [tel-archives](http://tel.archives-ouvertes.fr/tel-00979913)
+  * [Low res version](http://tel.archives-ouvertes.fr/docs/00/97/99/13/PDF/thesis.pdf) (15 MB): hosted at [HAL-INRIA](https://hal.inria.fr/tel-00979913) and [tel-archives](http://tel.archives-ouvertes.fr/tel-00979913)
   * [High res version](http://www-sop.inria.fr/reves/Basilic/2014/Cha14/thesis.pdf) (177 MB): hosted at [INRIA](http://www-sop.inria.fr/reves/Basilic/2014/Cha14/)
 
 _Results and comparison figures are best appreciated on a computer screen using the high res version._
