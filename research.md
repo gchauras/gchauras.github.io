@@ -4,6 +4,14 @@ permalink: /research/
 title: Research
 pubs:
 
+    - title:   "Editable parametric dense foliage from 3D capture"
+      author:  "G. Chaurasia, P. Beardsley"
+      journal: "ICCV"
+      note:    "conditionally accepted"
+      year:    "2017"
+      url:     ""
+      doi:     ""
+
     - title:   "Deep joint demosaicking and denoising"
       author:  "M. Gharbi, G. Chaurasia, S. Paris, F. Durand"
       journal: "ACM Transactions on Graphics"
