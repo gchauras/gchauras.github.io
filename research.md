@@ -6,8 +6,8 @@ pubs:
 
     - title:   "Editable parametric dense foliage from 3D capture"
       author:  "G. Chaurasia, P. Beardsley"
-      journal: "ICCV"
-      note:    "conditionally accepted"
+      journal: "IEEE International Conference on Computer Vision"
+      note:    "ICCV"
       year:    "2017"
       url:     ""
       doi:     ""
