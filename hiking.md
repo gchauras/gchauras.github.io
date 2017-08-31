@@ -32,6 +32,11 @@ ferrata_wishlist:
 
 hiking_wishlist:
 
+    - name: Mt. Blanc tour (xx days)
+      location:
+      difficulty:
+      url:
+
     - name: Four Headwaters 5 day
       location: Andermatt
       difficulty:
