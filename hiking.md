@@ -3,30 +3,36 @@ layout: page
 permalink: /misc/hiking.html
 title: Hiking and via ferratas
 
+hikes:
+    - name: Lavertezzo-Cardada
+      location: Ticino, Switzerland
+      difficulty: 1800m ascent, 17.8 km walk, 7.5 hours
+      url: https://map.wanderland.ch/?lang=de&route=all&bgLayer=pk&resolution=10&E=2705770&N=1120543&trackId=3874842&layers=Wanderland
+      track: https://connect.garmin.com/modern/activity/1957616494
 
 ferrata_wishlist:
     - name: Zittergrat
-      location: Engelberg
+      location: Engelberg, Switzerland
       difficulty: K4
       url: http://www.engelberg.ch/en/sommer-in-engelberg/via-ferratas/zittergrat/
 
     - name: Furenwand
-      location: Engelberg
+      location: Engelberg, Switzerland
       difficulty: K4-K5
       url: http://www.engelberg.ch/en/sommer-in-engelberg/via-ferratas/fuerenwand/
 
     - name: Graustock
-      location: Engelberg
+      location: Engelberg, Switzerland
       difficulty: K3
       url: http://www.engelberg.ch/en/sommer-in-engelberg/via-ferratas/graustock/
 
     - name: Rigidalstock
-      location: Engelberg
+      location: Engelberg, Switzerland
       difficulty: K3
       url: http://www.engelberg.ch/en/sommer-in-engelberg/via-ferratas/rigidalstock/
 
     - name: Krokodil
-      location: Andermatt
+      location: Andermatt, Switzerland
       difficulty: K3-K4
       url: http://www.andermatt.ch/en/sommer/bergsteigen-klettern/Klettersteig-Bergsee
 
@@ -38,7 +44,7 @@ hiking_wishlist:
       url:
 
     - name: Four Headwaters 5 day
-      location: Andermatt
+      location: Andermatt, Switzerland
       difficulty:
       url: http://www.andermatt.ch/en/summer/hiking/multi-day-tours/four-headwaters-trail2#skip
 
@@ -48,7 +54,7 @@ hiking_wishlist:
       url: http://www.wanderland.ch/en/routes/route-073.html
 
     - name: Alpnachstad-Pilatus Kulm
-      location: Luzern
+      location: Luzern, Switzerland
       difficulty:
       url:  https://www.pilatus.ch/fileadmin/files/entdecken/aktivitaeten/wandern-am-pilatus/1.1.1.3_Wandern_am_Pilatus_5.pdf
 
@@ -68,7 +74,7 @@ hiking_wishlist:
       url: https://www.myswitzerland.com/en-us/summer-weather-nodes/good_weather_summer/adventure-weather-summer/adventure-sports-summer/hiking-outdoor/panorama-trails/hiking-the-ridge-between-mts-saentis-and-altmann.html
 
     - name: Lauterbrunnen
-      location: Lauterbrunnen
+      location: Lauterbrunnen, Switzerland
       difficulty:
       url:
 
@@ -76,11 +82,11 @@ hiking_wishlist:
 
 ### Hikes
 {% for r in page.hikes %}
-{{r.date}}: [{{r.name}}]({{r.url}}){% if r.location %}, *{{r.location}}* {% endif %}{% if r.difficulty %} ({{r.difficulty}}) {% endif %}{% if r.route %} [[GPS track]({{r.route}})]{% endif %}<br />{% endfor %}
+{{r.date}}: [{{r.name}}]({{r.url}}){% if r.location %}, *{{r.location}}* {% endif %}{% if r.difficulty %} ({{r.difficulty}}) {% endif %}{% if r.track %} [[GPS track]({{r.track}})]{% endif %}<br />{% endfor %}
 
 ### Via ferratas
 {% for r in page.ferratas %}
-{{r.date}}: [{{r.name}}]({{r.url}}){% if r.location %}, *{{r.location}}* {% endif %}{% if r.difficulty %} ({{r.difficulty}}) {% endif %}{% if r.route %} [[GPS track]({{r.route}})]{% endif %}<br />{% endfor %}
+{{r.date}}: [{{r.name}}]({{r.url}}){% if r.location %}, *{{r.location}}* {% endif %}{% if r.difficulty %} ({{r.difficulty}}) {% endif %}{% if r.track %} [[GPS track]({{r.track}})]{% endif %}<br />{% endfor %}
 
 ### Hiking wishlist
 {% for r in page.hiking_wishlist %}
