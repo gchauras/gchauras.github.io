@@ -7,7 +7,7 @@ $heading-font-family: source-sans-pro, sans-serif;
 $heading-font-size:   16pt;
 $heading-line-height: 1.5;
 
-$base-font-family: Cardo, serif;
+$base-font-family: source-sans-pro, sans-serif;
 $base-font-size:   16pt;
 $base-line-height: 1.5;
 
@@ -49,7 +49,6 @@ $desktop:          50em;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-    // "fonts",
     "header",
     "mobile-header",
     "base",
