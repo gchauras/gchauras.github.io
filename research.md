@@ -256,10 +256,8 @@ conference_reviews:
 **{{pub.title}}**<br />
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
-{% endif %} *{{pub.year}}* <br />
-[[www]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})]
-{% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
-{% if pub.media %}<br />{% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %} {% endif %}
+{% endif %} *{{pub.year}}*  [[web]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})] {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
+{% if pub.media %}<br />Media: {% for article in pub.media %} [{{article.name}}]({{article.url}}) {% endfor %}{% endif %}
 
 {% endfor %}
 
@@ -267,10 +265,9 @@ conference_reviews:
 
 ## Doctoral Thesis
 
-**Algorithms & perceptual analysis for interactive free viewpoint image-based navigation**<br />
+**Algorithms & perceptual analysis for interactive free viewpoint image-based navigation** [[web]({{ "/research/thesis/" | prepend: site.baseurl}})]<br />
 *Adviser: [George Drettakis](http://www-sop.inria.fr/members/George.Drettakis)* <br />
-[INRIA](http://www.inria.fr/sophia), 2014<br />
-[www]({{ "/research/thesis/" | prepend: site.baseurl}})
+[INRIA](http://www.inria.fr/sophia), 2014
 
 ------
 
