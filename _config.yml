@@ -7,6 +7,8 @@ exclude: ["Makefile", "README.md"]
 
 url: "http://people.csail.mit.edu"    # the base hostname & protocol for your site
 baseurl: "/gchauras"                  # the subpath of your site, e.g. /blog
+# url: "localhost"             # for local testing
+# baseurl: ""
 
 author:
     name: Gaurav Chaurasia
