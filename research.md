@@ -9,7 +9,7 @@ pubs:
       journal: "IEEE International Conference on Computer Vision"
       note:    "ICCV"
       year:    "2017"
-      url:     ""
+      url:     "http://openaccess.thecvf.com/content_iccv_2017/html/Chaurasia_Editable_Parametric_Dense_ICCV_2017_paper.html"
       doi:     ""
 
     - title:   "Deep joint demosaicking and denoising"
