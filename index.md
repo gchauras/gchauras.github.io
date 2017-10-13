@@ -19,8 +19,7 @@ at [Indian Institute of Technology Delhi].
 Disney Research Zurich<br />
 Stampfenbachstrasse 48<br />
 Zurich 8006, Switzerland<br />
-Email (all others):     [cgaurav@inf.ethz.ch] <br />
-Email (Disney related): [gaurav.chaurasia@disneyresearch.com]
+Email: [cgaurav@inf.ethz.ch] <br />
 
 You can find some professional details about me on [Google Scholar].
 I enthusiastically hand over personal data to big companies for free,
@@ -40,5 +39,4 @@ includes some Gods (courtesy [Peter Vangorp]).
 [facebook]: http://www.facebook.com/{{site.author.facebook}}
 [Google Scholar]: http://scholar.google.com/citations?user={{site.author.scholar}}&hl=en&oi=ao
 [cgaurav@inf.ethz.ch]: mailto:cgaurav@inf.ethz.ch
-[gaurav.chaurasia@disneyresearch.com]: mailto:gaurav.chaurasia@disneyresearch.com
 [Peter Vangorp]: http://users.telenet.be/pvangorp/
