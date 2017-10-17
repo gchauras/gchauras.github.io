@@ -159,6 +159,7 @@ journal_reviews:
       url:   "http://tog.acm.org"
       years:
         - year: 2016
+        - year: 2017
 
     - title: "ACM Transactions on Applied Perception"
       url:   "http://tap.acm.org"
