@@ -9,8 +9,8 @@ pubs:
       journal: "IEEE International Conference on Computer Vision"
       note:    "ICCV"
       year:    "2017"
-      url:     "http://openaccess.thecvf.com/content_iccv_2017/html/Chaurasia_Editable_Parametric_Dense_ICCV_2017_paper.html"
-      doi:     ""
+      url:     "https://www.disneyresearch.com/publications/parametric-foliage/"
+      doi:     "http://openaccess.thecvf.com/content_iccv_2017/html/Chaurasia_Editable_Parametric_Dense_ICCV_2017_paper.html"
 
     - title:   "Deep joint demosaicking and denoising"
       author:  "M. Gharbi, G. Chaurasia, S. Paris, F. Durand"
@@ -159,6 +159,7 @@ journal_reviews:
       url:   "http://tog.acm.org"
       years:
         - year: 2016
+        - year: 2017
 
     - title: "ACM Transactions on Applied Perception"
       url:   "http://tap.acm.org"
