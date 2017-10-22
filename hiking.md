@@ -4,6 +4,24 @@ permalink: /misc/hiking.html
 title: Hiking and via ferratas
 
 hikes:
+    - name: Grossen Mythen
+      location: Schwyz, Switzerland
+      difficulty: 1400 m
+      url: http://www.schweizmobil.ch/de/wanderland/routen/route-0829.html
+      track: https://connect.garmin.com/modern/activity/2161379113
+      date: 21 Oct 2017
+      photos:
+      private_photos:
+
+    - name: IGL Compass (incomplete)
+      location: Preda, Switzerland
+      difficulty: 1200m, 14km
+      url: https://map.schweizmobil.ch/?lang=en&trackId=3348194&land=wanderland&route=all&layers=Wanderwegnetz
+      track: https://connect.garmin.com/modern/activity/2117617190
+      date: 15 Oct 2017
+      photos:
+      private_photos:
+
     - name: Monte Bar
       location: Ticino, Switzerland
       difficulty: 1480+860 m, 11+16 km, 2 days
