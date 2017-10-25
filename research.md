@@ -11,6 +11,9 @@ pubs:
       year:    "2017"
       url:     "https://www.disneyresearch.com/publications/parametric-foliage/"
       doi:     "http://openaccess.thecvf.com/content_iccv_2017/html/Chaurasia_Editable_Parametric_Dense_ICCV_2017_paper.html"
+      media:
+        - name: TechCrunch
+          url:  https://techcrunch.com/2017/10/23/the-dream-of-customizable-virtual-3d-foliage-is-alive-at-disney/
 
     - title:   "Deep joint demosaicking and denoising"
       author:  "M. Gharbi, G. Chaurasia, S. Paris, F. Durand"
@@ -245,6 +248,9 @@ conference_reviews:
           url:  "http://www.vrst2016.lrz.de/"
 ---
 
+## [Publications](#Publications) | [Thesis](#Doctoral-thesis) | [Media](#Media-coverage) | [Reviewing](#Professional-activities)
+
+
 ## Publications (peer reviewed)
 
 {% assign thumbnail="right" %}
@@ -258,7 +264,6 @@ conference_reviews:
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
 {% endif %} *{{pub.year}}*  [[web]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})] {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
-{% if pub.media %}<br />Media: {% for article in pub.media %} [{{article.name}}]({{article.url}}) {% endfor %}{% endif %}
 
 {% endfor %}
 
@@ -272,12 +277,22 @@ conference_reviews:
 
 ------
 
+## Media coverage
+
+{% for pub in page.pubs %}
+{% if pub.media %}
+- {{pub.title}} ({{pub.note}}, {{pub.year}}){% for article in pub.media %}
+    - [{{article.url}}]({{article.url}}){% endfor %}
+{% endif %}
+
+{% endfor %}
+
+------
+
 ## Professional activities
 
-### Conference reviews
-{% for review in page.conference_reviews %}
-{{review.title}} {% for y in review.years %} [{% if y.url %}[{{y.year}}]({{y.url}}){% else %}{{y.year}}{% endif %}] {% endfor %}<br />{% endfor %}
+- Conference reviews{% for review in page.conference_reviews %}
+    - {{review.title}} {% for y in review.years %} [{% if y.url %}[{{y.year}}]({{y.url}}){% else %}{{y.year}}{% endif %}] {% endfor %}<br />{% endfor %}
 
-### Journal reviews
-{% for review in page.journal_reviews %}
-{{review.title}} {% for y in review.years %} [{% if review.url %}[{{y.year}}]({{review.url}}){% else %}{{y.year}}{% endif %}] {% endfor %}<br />{% endfor %}
+- Journal reviews{% for review in page.journal_reviews %}
+    - {{review.title}} {% for y in review.years %} [{% if review.url %}[{{y.year}}]({{review.url}}){% else %}{{y.year}}{% endif %}] {% endfor %}<br />{% endfor %}

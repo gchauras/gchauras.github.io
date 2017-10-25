@@ -187,8 +187,8 @@ wishlist:
 ---
 
 {% for r in page.completed %}
-{% if r.date %}{{ r.date | date: "%-d %B %Y"  }}: {% endif %}[{{r.name}}]({{r.url}}){% if r.location %}, *{{r.location}}* {% endif %}{% if r.notes %} ({{r.notes}}){% endif %}{% if r.track %}{% for t in r.track %} [[GPS]({{t}})]{% endfor %}{% endif %}{% if r.photos %}, [photo]({{r.photos}}){% endif %}{% if r.private_photos %}, [private]({{r.private_photos}})]{% endif %}<br />{% endfor %}
+- {% if r.date %}{{ r.date | date: "%-d %B %Y"  }}: {% endif %}[{{r.name}}]({{r.url}}){% if r.location %}, *{{r.location}}* {% endif %}{% if r.notes %} ({{r.notes}}){% endif %}{% if r.track %}{% for t in r.track %} [[GPS]({{t}})]{% endfor %}{% endif %}{% if r.photos %}, [photo]({{r.photos}}){% endif %}{% if r.private_photos %}, [private]({{r.private_photos}})]{% endif %}<br />{% endfor %}
 
 ### Wishlist
 {% for r in page.wishlist %}
-[{{r.name}}]({{r.url}}){% if r.location %}, *{{r.location}}* {% endif %}{% if r.notes %} ({{r.notes}}) {% endif %}<br />{% endfor %}
+- [{{r.name}}]({{r.url}}){% if r.location %}, *{{r.location}}* {% endif %}{% if r.notes %} ({{r.notes}}) {% endif %}<br />{% endfor %}
