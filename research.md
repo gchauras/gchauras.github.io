@@ -248,14 +248,15 @@ conference_reviews:
           url:  "http://www.vrst2016.lrz.de/"
 ---
 
-## [Publications](#Publications) | [Thesis](#Doctoral-thesis) | [Media](#Media-coverage) | [Reviewing](#Professional-activities)
+Jump to [Publications](#peer-reviewed-publications), [Thesis](#doctoral-thesis), [Media](#media-coverage), [Reviewing](#professional-service)
 
+---
 
-## Publications (peer reviewed)
+## Peer reviewed publications
 
 {% assign thumbnail="right" %}
 
-{% for pub in page.pubs %}
+{% for pub in site.data.cv.publications %}
 <!-- {% if pub.image %}
 {% include image.html url=pub.image caption="" height="80px" align=thumbnail %}
 {% endif %} -->
@@ -269,7 +270,7 @@ conference_reviews:
 
 -----
 
-## Doctoral Thesis
+## Doctoral thesis
 
 **Algorithms & perceptual analysis for interactive free viewpoint image-based navigation** [[web]({{ "/research/thesis/" | prepend: site.baseurl}})]<br />
 *Adviser: [George Drettakis](http://www-sop.inria.fr/members/George.Drettakis)* <br />
@@ -279,7 +280,7 @@ conference_reviews:
 
 ## Media coverage
 
-{% for pub in page.pubs %}
+{% for pub in site.data.cv.publications %}
 {% if pub.media %}
 - {{pub.title}} ({{pub.note}}, {{pub.year}}){% for article in pub.media %}
     - [{{article.url}}]({{article.url}}){% endfor %}
@@ -289,10 +290,10 @@ conference_reviews:
 
 ------
 
-## Professional activities
+## Professional service
 
-- Conference reviews{% for review in page.conference_reviews %}
+- Conference reviews{% for review in site.data.cv.reviews.conference %}
     - {{review.title}} {% for y in review.years %} [{% if y.url %}[{{y.year}}]({{y.url}}){% else %}{{y.year}}{% endif %}] {% endfor %}<br />{% endfor %}
 
-- Journal reviews{% for review in page.journal_reviews %}
+- Journal reviews{% for review in site.data.cv.reviews.journal %}
     - {{review.title}} {% for y in review.years %} [{% if review.url %}[{{y.year}}]({{review.url}}){% else %}{{y.year}}{% endif %}] {% endfor %}<br />{% endfor %}
