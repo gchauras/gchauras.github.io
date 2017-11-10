@@ -1,6 +1,8 @@
 <footer class="site-footer">
     {{ site.description }}<br />
 
+    Last updated on {{ site.time | date: '%B %-d, %Y' }}<br />
+
     Using <a href="http://jekyllrb.com/">Jekyll</a>
     {% if site.sourcecode %}
      :: <a href="{{ site.sourcecode }}">Website source</a>
