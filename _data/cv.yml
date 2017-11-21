@@ -301,6 +301,10 @@ reviews:
           url:   http://www.springer.com/engineering/signals/journal/11760
           years:
             - year: 2013
+        - title: IEEE Computer Graphics and Applications
+          url:  https://www.computer.org/cga/
+          years:
+            - year: 2017
 
     conference:
         - title: SIGGRAPH
