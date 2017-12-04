@@ -13,6 +13,7 @@ html {
 // Basic styling
 body {
     font-family: $base-font-family;
+    font-weight: $font-weight-normal;
     font-size:   $base-font-size;
     line-height: $base-line-height;
     color:       $text-color;
@@ -26,13 +27,18 @@ body {
     font-feature-settings:         'smcp' 1, 'liga' 1;  /* Future-proof! */
 }
 
+// bold elements
+strong {
+    font-weight: $font-weight-bold;
+}
+
 //  Headings
 h1, h2, h3, h4, h5, h6 {
     font-family: $heading-font-family;
+    font-weight: $font-weight-bold;
     font-size:   $heading-font-size;
     line-height: $heading-line-height;
     color:       $text-color;
-    font-weight: bold;
     text-transform: uppercase;
 }
 
