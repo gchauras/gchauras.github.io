@@ -307,6 +307,10 @@ reviews:
             - year: 2017
 
     conference:
+        - title: CVPR
+          years:
+            - year: 2018
+              url: http://cvpr2018.thecvf.com/
         - title: SIGGRAPH
           years:
             - year: 2012
