@@ -7,8 +7,8 @@
 - title: "Misc"
   href: "/misc/"
 
-- title: "Blog"
-  href: "/blog/"
+  # - title: "Blog"
+  #   href: "/blog/"
 
   # subcategories:
   #  - subtitle: "Item 1"
