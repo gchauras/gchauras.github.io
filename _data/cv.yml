@@ -133,7 +133,7 @@ publications:
       note:    ICCV
       year:    2017
       url:     https://www.disneyresearch.com/publications/parametric-foliage/
-      doi:     http://openaccess.thecvf.com/content_iccv_2017/html/Chaurasia_Editable_Parametric_Dense_ICCV_2017_paper.html
+      doi:     https://doi.org/10.1109/ICCV.2017.567
       media:
         - name: TechCrunch
           url:  https://techcrunch.com/2017/10/23/the-dream-of-customizable-virtual-3d-foliage-is-alive-at-disney/
