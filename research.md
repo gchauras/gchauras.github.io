@@ -156,6 +156,17 @@ talks:
       internal: "1"
 
 
+grant_reviews:
+    - title: "National Science Foundation (USA)"
+      url: "https://www.nsf.gov"
+      years:
+        - year: 2017
+
+    - title: "Agence Nationale de la Recherche (France)"
+      url: "http://www.agence-nationale-recherche.fr"
+      years:
+        - year: 2018
+
 journal_reviews:
 
     - title: "ACM Transactions on Graphics"
@@ -163,11 +174,17 @@ journal_reviews:
       years:
         - year: 2016
         - year: 2017
+        - year: 2018
 
     - title: "ACM Transactions on Applied Perception"
       url:   "http://tap.acm.org"
       years:
         - year: 2014
+
+    - title: "IEEE Transations on Image Processing"
+      url: "https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=83"
+      years:
+        - year: 2018
 
     - title: "IEEE Transactions on Visualization and Computer Graphics"
       url:   "http://www.computer.org/web/tvcg"
@@ -220,6 +237,18 @@ conference_reviews:
           url:  "http://sa2016.siggraph.org/en/"
         - year: 2017
           url:  "http://sa2017.siggraph.org"
+        - year: 2018
+          url:  "http://sa2018.siggraph.org"
+
+    - title: "CVPR"
+      years:
+        - year: 2018
+          url: cvpr2018.thecvf.com
+
+    - title: "ACCV"
+      years:
+        - year: 2018
+          url: "http://accv2018.net/"
 
     - title: "Eurographics"
       years:
@@ -291,6 +320,9 @@ Jump to [Publications](#peer-reviewed-publications), [Thesis](#doctoral-thesis),
 ------
 
 ## Professional service
+
+- Grant proposals{% for review in site.data.cv.reviews.grants %}
+    - {{review.title}} {% for y in review.years %} [{% if review.url %}[{{y.year}}]({{review.url}}){% else %}{{y.year}}{% endif %}] {% endfor %}<br />{% endfor %}
 
 - Conference reviews{% for review in site.data.cv.reviews.conference %}
     - {{review.title}} {% for y in review.years %} [{% if y.url %}[{{y.year}}]({{y.url}}){% else %}{{y.year}}{% endif %}] {% endfor %}<br />{% endfor %}
