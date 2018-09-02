@@ -1,6 +1,6 @@
 title: Gaurav Chaurasia
 description: Gaurav Chaurasia's webpage
-sourcecode: "https://github.com/gchauras/www"
+sourcecode: "https://github.com/gchauras.github.io"
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
