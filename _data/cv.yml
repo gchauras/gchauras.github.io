@@ -1,15 +1,14 @@
 name: Gaurav Chaurasia
-affiliation: Disney Research
-address: Stampfenbachstrasse 48, Zurich 8006, Switzerland
+affiliation: Oculus
+address: Zurich, Switzerland
 email: gchauras@csail.mit.edu
 web: http://people.csail.mit.edu/gchauras/
 
 research_interests:
-    - Image-based rendering and 3D reconstruction
-    - Model extraction from RGB-D data
-    - Compilers and GPU acceleration for image synthesis
-    - Convolutional Neural networks for computational photography
-    - Neural networks for 2D/3D synthesis
+    - Computer vision and machine learning for VR and related applications.
+    - 3D reconstruction and fitting to RGB-D data.
+    - Neural networks for 2D/3D synthesis.
+    - Hardware acceleration -- compilers, GPGPU, ARM-optimisation.
 
 education:
     - date:         2010-2014
@@ -32,7 +31,13 @@ education:
       thesis:       Real time traffic simulation
 
 positions:
-    - date:         2015-till date
+    - date:         2018-till date
+      title:        Computer Vision
+      affiliation:  Oculus
+      location:     Zurich, Switzerland
+      mentor:
+      notes:
+    - date:         2015-2017
       title:        Associate Research Scientist (computer vision)
       affiliation:  Disney Research Zurich
       location:     Zurich, Switzerland
@@ -127,13 +132,18 @@ awards:
       detail: All India Rank 54 in IIT-JEE 2005 (entrance examination for Indian Institutes of Technology) amongst nearly 300,000 aspirants.
 
 publications:
+    - title:   RNN-based generative model for fine-grained sketching
+      author:  A. Jenal, N. Savinov, T. Sattler, G. Chaurasia
+      journal: European Conference on Computer Vision
+      note:    under review
+      year:    2018
     - title:   Editable parametric dense foliage from 3D capture
       author:  G. Chaurasia, P. Beardsley
       journal: IEEE International Conference on Computer Vision
       note:    ICCV
       year:    2017
       url:     https://www.disneyresearch.com/publications/parametric-foliage/
-      doi:     https://doi.org/10.1109/ICCV.2017.567
+      doi:     http://openaccess.thecvf.com/content_iccv_2017/html/Chaurasia_Editable_Parametric_Dense_ICCV_2017_paper.html
       media:
         - name: TechCrunch
           url:  https://techcrunch.com/2017/10/23/the-dream-of-customizable-virtual-3d-foliage-is-alive-at-disney/
@@ -264,16 +274,30 @@ talks:
       internal: 1
 
 reviews:
+    grants:
+        - title: National Science Foundation (USA)
+          years:
+            - year: 2017
+          url: https://www.nsf.gov
+        - title: Agence Nationale de la Recherche (France)
+          years:
+            - year: 2018
+          url: http://www.agence-nationale-recherche.fr
     journal:
         - title: ACM Transactions on Graphics
           url:   http://tog.acm.org
           years:
             - year: 2016
             - year: 2017
+            - year: 2018
         - title: ACM Transactions on Applied Perception
           url:   http://tap.acm.org
           years:
             - year: 2014
+        - title: IEEE Transations on Image Processing
+          url:   https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=83
+          years:
+            - year: 2018
         - title: IEEE Transactions on Visualization and Computer Graphics
           url:   http://www.computer.org/web/tvcg
           years:
@@ -301,16 +325,16 @@ reviews:
           url:   http://www.springer.com/engineering/signals/journal/11760
           years:
             - year: 2013
-        - title: IEEE Computer Graphics and Applications
-          url:  https://www.computer.org/cga/
-          years:
-            - year: 2017
 
     conference:
         - title: CVPR
           years:
             - year: 2018
               url: http://cvpr2018.thecvf.com/
+        - title: ACCV
+          years:
+            - year: 2018
+              url: http://accv2018.net/
         - title: SIGGRAPH
           years:
             - year: 2012
@@ -325,6 +349,8 @@ reviews:
               url:  http://sa2016.siggraph.org/en/
             - year: 2017
               url:  http://sa2017.siggraph.org
+            - year: 2018
+              url:  http://sa2018.siggraph.org
         - title: Eurographics
           years:
             - year: 2012
@@ -361,6 +387,14 @@ references:
       title: Senior Researcher, Adobe Research, Cambridge MA, USA
       www:   http://people.csail.mit.edu/sparis/
       mail:  sparis@adobe.com
+    - name:  Ryan Brown
+      title: Site Lead, Oculus Zurich
+      www:   https://www.linkedin.com/in/ryanhbrown
+      mail:
+    - name:  Dr. Alexander Sorkine-Hornung
+      title: Technical Lead, Oculus Zurich
+      www:   http://www.ahornung.net/
+      mail:
     - name:  Prof. Dr. Markus Gross
       title: Professor, ETH Zurich and Vice President, Disney Research, Zurich, Switzerland
       www:   https://www.disneyresearch.com/people/markus-gross/

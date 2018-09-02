@@ -4,40 +4,156 @@ permalink: /misc/hiking.html
 title: Hikes and via ferratas
 
 completed:
+
+    - name: Macun
+      notes: 18 km, 1200 m
+      location: Graubünden, Switzerland
+      track: https://www.strava.com/activities/1812640756
+      date: 1 Sept 2018
+      url:
+      photos:
+      private_photos:
+
+    - name: Stanserhorn
+      location: Nidwalden, Switzerland
+      notes: 6.78 km, 1350 m, 2:23 hours
+      track: https://www.strava.com/activities/1798309752
+      date: 26 August 2018
+      url:
+      photos:
+      private_photos:
+
+    - name: Mont Favre - Courmayeur (Tour du Mt. Blanc Stage 4)
+      location: Mt. Blanc Massif, Italy
+      date: 1 August 2018
+      notes: 11 km, 500 m
+      track: https://www.strava.com/activities/1742608908
+      url:
+      photos:
+      private_photos:
+
+    - name: Tete Nord de Fours - Col de Siege (Tour du Mt. Blanc Stage 3)
+      location: Mt. Blanc Massif, France
+      date: 31 July 2018
+      notes: 22.5 km, 1200 m
+      track: https://www.strava.com/activities/1742596837
+      url:
+      photos:
+      private_photos:
+
+    - name: Col de la Croix du Bonhomme (Tour du Mt. Blanc Stage 2)
+      location: Mt. Blanc Massif, France
+      date: 30 July 2018
+      notes: 15.7 km, 1300 m
+      track: https://www.strava.com/activities/1742586487
+      url:
+      photos:
+      private_photos:
+
+    - name: Col de Tricot - Le Truc (Tour du Mt. Blanc Stage 1)
+      location: Mt. Blanc Massif, France
+      date: 29 July 2018
+      notes: 20 km, 1500 m
+      track: https://www.strava.com/activities/1735884966
+      url:
+      photos:
+      private_photos:
+
+    - name: Furkapass - Rhonegletscher (Four Headwaters Stage 5)
+      location: Andermatt, Switzerland
+      notes: 15 km, 1300 m
+      url: http://www.vier-quellen-weg.ch/etappen/etappe-5/
+      track: https://www.strava.com/activities/1724276090
+      date: 24 July 2018
+      photos:
+      private_photos:
+
+    - name: Nufenenpass (Four Headwaters Stage 4)
+      location: Andermatt, Switzerland
+      notes: 21 km, 860 m
+      url: http://www.vier-quellen-weg.ch/etappen/etappe-4/
+      track: https://www.strava.com/activities/1724859333
+      date: 23 July 2018
+      photos:
+      private_photos:
+
+    - name: Reussquelle - Lucendropass (Four Headwaters Stage 3)
+      location: Andermatt, Switzerland
+      notes: 1100 m, 21 km (T2/T3)
+      url: http://www.vier-quellen-weg.ch/etappen/etappe-3/
+      track: https://www.strava.com/activities/1724880301
+      date: 22 July 2018
+      photos:
+      private_photos:
+
+    - name: Pizzo Leone
+      location: Ticino, Switzerland
+      notes: 13.5 km, 800 m
+      track: https://www.strava.com/activities/1674109179
+      date: 1 July 2018
+      url:
+      photos:
+      private_photos:
+
+    - name: San Salvatore
+      location: Ticino, Switzerland
+      notes: 15 km, 830 m
+      track: https://www.strava.com/activities/1644654962
+      date: 17 June 2018
+      url:
+      photos:
+      private_photos:
+
+    - name: Scuol - Ftan
+      location: Graubünden, Switzerland
+      date: 14 Apr 2018
+      notes: 11.0 km, 606 m
+      track: https://www.strava.com/activities/1507633775
+      url:
+      photos:
+      private_photos:
+
     - name: Grossen Mythen
       location: Schwyz, Switzerland
-      notes: 1400m, 6km, 2:45h
+      notes: 1400 m, 6 km, 2:45h
       url: http://www.schweizmobil.ch/de/wanderland/routen/route-0829.html
-      track: https://connect.garmin.com/modern/activity/2161379113
+      track: https://www.strava.com/activities/1241085053
       date: 21 Oct 2017
       photos:
       private_photos:
 
     - name: IGL Compass (incomplete)
-      location: Preda-Bergun, Switzerland
-      notes: 1200m, 14km
+      location: Graubünden, Switzerland
+      notes: 1200 m, 14 km
       url: https://map.schweizmobil.ch/?lang=en&trackId=3348194&land=wanderland&route=all&layers=Wanderwegnetz
-      track: https://connect.garmin.com/modern/activity/2117617190
+      track: https://www.strava.com/activities/1232355741
       date: 15 Oct 2017
+      photos:
+      private_photos:
+
+    - name: Monte Garzirola
+      location: Ticino, Switzerland
+      notes: 860 m, 16 km
+      url: https://map.wanderland.ch/?lang=de&route=all&bgLayer=pk&resolution=10&E=2705770&N=1120543&trackId=3874842&layers=Wanderland
+      track: https://connect.garmin.com/modern/activity/1985512528
+      date: 18 Sept 2017
       photos:
       private_photos:
 
     - name: Monte Bar
       location: Ticino, Switzerland
-      notes: 1480+860 m, 11+16 km, 2 days
+      notes: 1480 m, 11 km
       url: https://map.wanderland.ch/?lang=de&route=all&bgLayer=pk&resolution=10&E=2705770&N=1120543&trackId=3874842&layers=Wanderland
-      track:
-        - https://connect.garmin.com/modern/activity/1985512528
-        - https://connect.garmin.com/modern/activity/1985512490
+      track: https://www.strava.com/activities/1190576061
       date: 17 Sept 2017
       photos:
       private_photos:
 
-    - name: Lavertezzo-Cardada
+    - name: Pizzo di Corbella - Madone
       location: Ticino, Switzerland
-      notes: 1800m, 14km, 7.5h
+      notes: 1800 m, 14 km, 7:30 h
       url: https://map.wanderland.ch/?lang=de&route=all&bgLayer=pk&resolution=10&E=2705770&N=1120543&trackId=3874842&layers=Wanderland
-      track: https://connect.garmin.com/modern/activity/1957616494
+      track: https://www.strava.com/activities/1174299377
       date: 3 Sept 2017
       photos:
       private_photos:
@@ -45,55 +161,71 @@ completed:
     - name: Creux du Van
       location: Neuchatel, Switzerland
       url:
-      notes: 800m
-      track: https://connect.garmin.com/modern/activity/1930666362
+      notes: 13 km, 800 m
+      track: https://www.strava.com/activities/1174300195
       date: 20 August 2017
       photos:
       private_photos:
 
     - name: Rigi Kulm
       location: Luzern, Switzerland
-      url:
-      notes:
-      track: https://connect.garmin.com/modern/activity/1942609063
+      notes: 8.6 km, 1400 m, 2:48 h
+      track: https://www.strava.com/activities/1174299771
       date: 7 August 2017
+      url:
       photos:
       private_photos:
 
-    - name: Splugen
-      location:
-      url:
-      notes:
-      track: https://connect.garmin.com/modern/activity/1779988900
+    - name: Surettasee - Splugen
+      location: Graubünden, Switzerland
+      notes: 13 km, 850 m
+      track: https://www.strava.com/activities/1174302241
       date: 3 June 2017
+      url:
       photos:
       private_photos:
 
     - name: Stoos
-      location:
-      url:
-      notes:
-      track: https://connect.garmin.com/modern/activity/1858515578
+      location: Schwyz, Switzerland
+      notes: 13 km, 1100 m
+      track: https://www.strava.com/activities/1174300849
       date: 16 July 2017
-      photos:
-      private_photos:
-
-    - name: Herbetswil
-      location:
       url:
-      notes:
-      track: https://connect.garmin.com/modern/activity/1771314304
-      date: 28 May 2017
       photos:
       private_photos:
 
-    - name: Four Headwaters stage 1-2
-      notes: 2 days
+    - name: Herbetswil - Brunnensberg
+      location: Solothurn, Switzerland
+      notes: 18 km, 720 m
+      track: https://www.strava.com/activities/1174302549
+      date: 28 May 2017
+      url:
+      photos:
+      private_photos:
+
+    - name: Malý Rozsutec
+      location: Terchova, Slovakia
+      track: https://www.strava.com/activities/1174302882
+      date: 30 April 2017
+      notes: 11.5 km, 750 m
+      url:
+      photos:
+      private_photos:
+
+    - name: Sellapass - Gotthardpass (Four Headwaters stage 2)
+      notes: 13 km, 832 m (T2/T3)
       location: Andermatt, Switzerland
-      url: http://www.andermatt.ch/en/summer/hiking/multi-day-tours/four-headwaters-trail2#skip
-      track:
-        - https://connect.garmin.com/modern/activity/1388356183/2
-        - https://connect.garmin.com/modern/activity/1388356232
+      url: http://www.vier-quellen-weg.ch/etappen/etappe-2/
+      track: https://www.strava.com/activities/1174303191
+      date: 2 October 2016
+      photos:
+      private_photos:
+
+    - name: Rheinquelle - Maighelspass (Four Headwaters stage 1)
+      notes: 14 km, 827 m
+      location: Andermatt, Switzerland
+      url: http://www.vier-quellen-weg.ch/etappen/etappe-1/
+      track: https://www.strava.com/activities/1174303541
       date: 1 October 2016
       photos:
       private_photos:
@@ -102,7 +234,7 @@ completed:
       location: Gadmen, Switzerland
       notes: K2
       url: http://www.visinand.ch/via/Bern/Tierbergli/Tierbergli_intro.htm
-      track: https://connect.garmin.com/modern/activity/1379235891
+      track: https://www.strava.com/activities/1174303852
       date: 25 Sept 2016
       photos:
       private_photos:
@@ -111,7 +243,7 @@ completed:
       location: Engelberg, Switzerland
       notes: K4-K5
       url: http://www.engelberg.ch/en/sommer-in-engelberg/via-ferratas/fuerenwand/
-      track: https://connect.garmin.com/modern/activity/1325959012
+      track: https://www.strava.com/activities/1174304567
       date: 28 August 2016
       photos:
       private_photos:
@@ -187,7 +319,7 @@ wishlist:
 ---
 
 {% for r in page.completed %}
-- {% if r.date %}{{ r.date | date: "%-d %B %Y"  }}: {% endif %}[{{r.name}}]({{r.url}}){% if r.location %}, *{{r.location}}* {% endif %}{% if r.notes %} ({{r.notes}}){% endif %}{% if r.track %}{% for t in r.track %} [[GPS]({{t}})]{% endfor %}{% endif %}{% if r.photos %}, [photo]({{r.photos}}){% endif %}{% if r.private_photos %}, [private]({{r.private_photos}})]{% endif %}<br />{% endfor %}
+- {% if r.date %}{{ r.date | date: "%-d %B %Y"  }}: {% endif %}[{{r.name}}]({{r.track}}){% if r.location %}, *{{r.location}}* {% endif %}{% if r.notes %} ({{r.notes}}){% endif %} {% if r.url %}([More info]({{r.url}})){% endif %}{% if r.photos %}, [photo]({{r.photos}}){% endif %}{% if r.private_photos %}, [private]({{r.private_photos}})]{% endif %}<br />{% endfor %}
 
 ### Wishlist
 {% for r in page.wishlist %}
