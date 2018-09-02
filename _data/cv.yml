@@ -134,8 +134,8 @@ awards:
 publications:
     - title:   RNN-based generative model for fine-grained sketching
       author:  A. Jenal, N. Savinov, T. Sattler, G. Chaurasia
-      journal: European Conference on Computer Vision
-      note:    under review
+      journal: under preparation
+      note:
       year:    2018
     - title:   Editable parametric dense foliage from 3D capture
       author:  G. Chaurasia, P. Beardsley
