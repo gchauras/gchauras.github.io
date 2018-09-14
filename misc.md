@@ -6,7 +6,7 @@ permalink: /misc/
 
 ## Sports
 
-Since moving to Zurich, I have picked up hiking as a favourite sport. I have started maintaining a list of [hikes](misc/hiking.html) since 2016.
+Since moving to Zurich, I have picked up hiking as a favourite sport. I have started maintaining a list of [hikes](hiking.html) since 2016.
 
 I occassionally go biking for 800 m climbs around Zurich. It used to me primary sport during PhD. I like uphill (800 - 1000 m) or long distance (~100 km) biking on my mountain bike. I tried some long bike rides outside Boston and it was fun. The French Riviera is a dream spot for biking. My dream is to do [La Bonnet] someday.
 
