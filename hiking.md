@@ -276,16 +276,6 @@ wishlist:
       notes: K4
       url: http://www.allmenalp.ch/aktivitaeten/klettersteig/?L=1
 
-    - name: Mt. Blanc tour (xx days)
-      location:
-      notes:
-      url:
-
-    - name: Four Headwaters 5 day
-      location: Andermatt, Switzerland
-      notes:
-      url: http://www.andermatt.ch/en/summer/hiking/multi-day-tours/four-headwaters-trail2#skip
-
     - name: Sardona Heritage tour 6 day
       location:
       notes:
