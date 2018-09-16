@@ -5,6 +5,15 @@ title: Hikes and via ferratas
 
 completed:
 
+    - name: Eigergletscher
+      notes: 18 km, 1650 m
+      location: Jungfrau region, Bern, Switzerland
+      track: https://www.strava.com/activities/1845810189
+      date: 16 Sept 2018
+      url:
+      photos:
+      private_photos:
+      
     - name: Macun
       notes: 18 km, 1200 m
       location: Graubünden, Switzerland
@@ -115,7 +124,7 @@ completed:
 
     - name: Grossen Mythen
       location: Schwyz, Switzerland
-      notes: 1400 m, 6 km, 2:45h
+      notes: 6 km, 1400 m, 2:45h
       url: http://www.schweizmobil.ch/de/wanderland/routen/route-0829.html
       track: https://www.strava.com/activities/1241085053
       date: 21 Oct 2017
@@ -124,7 +133,7 @@ completed:
 
     - name: IGL Compass (incomplete)
       location: Graubünden, Switzerland
-      notes: 1200 m, 14 km
+      notes: 14 km, 1200 m
       url: https://map.schweizmobil.ch/?lang=en&trackId=3348194&land=wanderland&route=all&layers=Wanderwegnetz
       track: https://www.strava.com/activities/1232355741
       date: 15 Oct 2017
@@ -133,7 +142,7 @@ completed:
 
     - name: Monte Garzirola
       location: Ticino, Switzerland
-      notes: 860 m, 16 km
+      notes: 16 km, 860 m
       url: https://map.wanderland.ch/?lang=de&route=all&bgLayer=pk&resolution=10&E=2705770&N=1120543&trackId=3874842&layers=Wanderland
       track: https://connect.garmin.com/modern/activity/1985512528
       date: 18 Sept 2017
@@ -142,7 +151,7 @@ completed:
 
     - name: Monte Bar
       location: Ticino, Switzerland
-      notes: 1480 m, 11 km
+      notes: 11 km, 1480 m
       url: https://map.wanderland.ch/?lang=de&route=all&bgLayer=pk&resolution=10&E=2705770&N=1120543&trackId=3874842&layers=Wanderland
       track: https://www.strava.com/activities/1190576061
       date: 17 Sept 2017
@@ -151,7 +160,7 @@ completed:
 
     - name: Pizzo di Corbella - Madone
       location: Ticino, Switzerland
-      notes: 1800 m, 14 km, 7:30 h
+      notes: 14 km, 1800 m, 7:30 h
       url: https://map.wanderland.ch/?lang=de&route=all&bgLayer=pk&resolution=10&E=2705770&N=1120543&trackId=3874842&layers=Wanderland
       track: https://www.strava.com/activities/1174299377
       date: 3 Sept 2017
@@ -213,7 +222,7 @@ completed:
       private_photos:
 
     - name: Sellapass - Gotthardpass (Four Headwaters stage 2)
-      notes: 13 km, 832 m (T2/T3)
+      notes: 13 km, 832 m
       location: Andermatt, Switzerland
       url: http://www.vier-quellen-weg.ch/etappen/etappe-2/
       track: https://www.strava.com/activities/1174303191
@@ -276,16 +285,6 @@ wishlist:
       notes: K4
       url: http://www.allmenalp.ch/aktivitaeten/klettersteig/?L=1
 
-    - name: Mt. Blanc tour (xx days)
-      location:
-      notes:
-      url:
-
-    - name: Four Headwaters 5 day
-      location: Andermatt, Switzerland
-      notes:
-      url: http://www.andermatt.ch/en/summer/hiking/multi-day-tours/four-headwaters-trail2#skip
-
     - name: Sardona Heritage tour 6 day
       location:
       notes:
@@ -310,11 +309,6 @@ wishlist:
       location:
       notes:
       url: https://www.myswitzerland.com/en-us/summer-weather-nodes/good_weather_summer/adventure-weather-summer/adventure-sports-summer/hiking-outdoor/panorama-trails/hiking-the-ridge-between-mts-saentis-and-altmann.html
-
-    - name: Lauterbrunnen
-      location: Lauterbrunnen, Switzerland
-      notes:
-      url:
 
 ---
 
