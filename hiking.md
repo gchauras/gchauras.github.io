@@ -301,10 +301,20 @@ wishlist:
       notes:
       url: https://www.myswitzerland.com/en-us/summer-weather-nodes/good_weather_summer/adventure-weather-summer/adventure-sports-summer/hiking-outdoor/panorama-trails/hiking-the-ridge-between-mts-saentis-and-altmann.html
 
-    - name: Lauterbrunnen
-      location: Lauterbrunnen, Switzerland
+    - name: Sesvannahutte 3 day
+      location: Graubunden, Switzerland
       notes:
-      url:
+      url: https://map.schweizmobil.ch/?lang=en&land=wanderland&route=6&bgLayer=pk&logo=yes&season=summer&resolution=50&E=2823590&N=1176314&layers=Wanderland&trackId=5510664
+
+    - name: Tapallihutte 2 day
+      location: , Switzerland
+      notes:
+      url: https://map.schweizmobil.ch/?lang=en&land=wanderland&route=6&bgLayer=pk&logo=yes&season=summer&resolution=20&E=2626096&N=1110971&layers=Wanderland&trackId=5456318
+
+    - name: Turtmanseehutte 2 day
+      location: Graubunden, Switzerland
+      notes:
+      url: https://map.schweizmobil.ch/?lang=en&land=wanderland&route=6&bgLayer=pk&logo=yes&season=summer&resolution=2.52&E=2619493&N=1112584&layers=Wanderland&trackId=5456334
 
 ---
 
