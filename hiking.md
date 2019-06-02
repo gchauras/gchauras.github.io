@@ -5,6 +5,24 @@ title: Hikes and via ferratas
 
 completed:
 
+    - name: Monte Lema - Monte Tamaro
+      notes: 21.62 km, 1900 m, 6:30 hours
+      location: Ticino, Switzerland
+      track: https://www.strava.com/activities/2414662321
+      date: Jun 1, 2019
+      url: https://map.schweizmobil.ch/?lang=en&land=wanderland&route=6&layers=Wanderland&bgLayer=pk&logo=yes&season=summer&resolution=20&E=2709821&N=1102379&trackId=5541490
+      photos:
+      private_photos:
+
+    - name: Denti della Vecchia
+      notes: 27 km, 2100 m, 7:16 hours
+      location: Ticino, Switzerland
+      track: https://www.strava.com/activities/2407008140
+      date: May 29, 2019
+      url: https://map.schweizmobil.ch/?lang=en&land=wanderland&route=6&layers=Wanderland&bgLayer=pk&logo=yes&season=summer&resolution=20&E=2721603&N=1100159&trackId=5541483
+      photos:
+      private_photos:
+
     - name: Eigergletscher
       notes: 18 km, 1650 m
       location: Jungfrau region, Bern, Switzerland
@@ -285,11 +303,6 @@ wishlist:
       notes: K4
       url: http://www.allmenalp.ch/aktivitaeten/klettersteig/?L=1
 
-    - name: Sardona Heritage tour 6 day
-      location:
-      notes:
-      url: http://www.wanderland.ch/en/routes/route-073.html
-
     - name: Alpnachstad-Pilatus Kulm
       location: Luzern, Switzerland
       notes:
@@ -316,14 +329,19 @@ wishlist:
       url: https://map.schweizmobil.ch/?lang=en&land=wanderland&route=6&bgLayer=pk&logo=yes&season=summer&resolution=50&E=2823590&N=1176314&layers=Wanderland&trackId=5510664
 
     - name: Tapallihutte 2 day
-      location: , Switzerland
+      location: Switzerland
       notes:
       url: https://map.schweizmobil.ch/?lang=en&land=wanderland&route=6&bgLayer=pk&logo=yes&season=summer&resolution=20&E=2626096&N=1110971&layers=Wanderland&trackId=5456318
 
-    - name: Turtmanseehutte 2 day
-      location: Graubunden, Switzerland
+    - name: Turtmanhutte 2 day
+      location: Switzerland
       notes:
       url: https://map.schweizmobil.ch/?lang=en&land=wanderland&route=6&bgLayer=pk&logo=yes&season=summer&resolution=2.52&E=2619493&N=1112584&layers=Wanderland&trackId=5456334
+
+    - name: Cabane de Tracuit / Cabane de Arpitetta
+      location: Switzerland
+      notes:
+      url:
 
 ---
 
