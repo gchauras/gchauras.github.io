@@ -5,6 +5,15 @@ title: Hikes and via ferratas
 
 completed:
 
+    - name: Hoher Kasten - Ebenalp
+      notes: 30 km, 2200 m, 8:30 hours
+      location: Appenzel, Switzerland
+      track: https://www.strava.com/activities/2438650864
+      date: Jun 8, 2019
+      url: https://map.schweizmobil.ch/?lang=en&land=wanderland&route=1&layers=Wanderland&bgLayer=pk&logo=yes&season=summer&resolution=10&E=2752106&N=1239158&trackId=5572858
+      photos:
+      private_photos:
+
     - name: Monte Lema - Monte Tamaro
       notes: 21.62 km, 1900 m, 6:30 hours
       location: Ticino, Switzerland
