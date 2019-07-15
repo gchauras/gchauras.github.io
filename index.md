@@ -4,33 +4,23 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/profile_1.jpg" caption="in U.N. , July 2017" width="300px" align="right" %}
+{% include image.html url="images/profile_1.jpg" caption="in U.N. , July 2017" width="350px" align="right" %}
 
-I work at [Oculus] on VR and related problems.
-I was a postdoc first at [MIT] with [Fredo Durand] and [Sylvain Paris],
-and then in the vision and robotics group at [Disney Research Zurich]. I completed
-my PhD under the guidance of [George Drettakis] at [INRIA] in the beautiful French
-Riviera. I obtained my Masters degree in computer science at [ENSIMAG]. In an
-earlier life, I used to be an undergrad at [Indian Institute of Technology Delhi].
+Hi, I am an undergraduate at [University of Electronic Science and Technology of China] & [University of Glasgow]. My research interests focus on applying machine learning to solve practical problems, including ultrasound imaging analysis, object detection and data mining.
+I am currently a research intern in [electrical & computer engineering department], Rutgers University, where I researched under the guidance of [Prof. Bo Yuan]. 
 
-Email: [gaurav.chaurasia@oculus.com] (Oculus/Facebook related communication) <br />
-Email: [gchauras@csail.mit.edu] (others)
+Email: [2289217l@student.gla.ac.uk]  <br />
+       [buffon1017@std.uestc.edu.cn]  <br />
+Github: [https://github.com/MasterEndless]
+	 
 
-You can find some professional details about me on [Google Scholar].
 
-My [academic lineage](files/GauravChaurasia_academic_lineage.pdf)
-includes some Gods (courtesy [Peter Vangorp]).
-
-[Disney Research Zurich]: http://www.disneyresearch.com/research-labs/disney-research-zurich/
-[INRIA]: https://team.inria.fr/graphdeco/
-[Indian Institute of Technology Delhi]: http://www.cse.iitd.ac.in
-[George Drettakis]: http://www-sop.inria.fr/members/George.Drettakis
-[ENSIMAG]: http://ensimag.grenoble-inp.fr
-[Fredo Durand]: http://people.csail.mit.edu/fredo/
-[Sylvain Paris]: http://people.csail.mit.edu/sparis/
-[MIT]: http://www.csail.mit.edu/
+[University of Glasgow]: https://www.gla.ac.uk/
+[electrical & computer engineering department]: https://www.ece.rutgers.edu/about-us
+[Prof. Bo Yuan]: https://sites.google.com/site/boyuaneecs/
+[University of Electronic Science and Technology of China]: https://www.uestc.edu.cn/
 [Oculus]: https://www.oculus.com/
-[Google Scholar]: http://scholar.google.com/citations?user={{site.author.scholar}}&hl=en&oi=ao
-[gchauras@csail.mit.edu]: mailto:gchauras@csail.mit.edu
-[gaurav.chaurasia@oculus.com]: mailto:gaurav.chaurasia@oculus.com
-[Peter Vangorp]: http://users.telenet.be/pvangorp/
+[2289217l@student.gla.ac.uk]: 2289217l@student.gla.ac.uk
+[buffon1017@std.uestc.edu.cn]: buffon1017@std.uestc.edu.cn
+[https://github.com/MasterEndless]: https://github.com/MasterEndless
+
