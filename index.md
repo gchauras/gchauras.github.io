@@ -10,7 +10,6 @@ Hi, I am an undergraduate at [University of Electronic Science and Technology of
 I am currently a research intern in [electrical & computer engineering department], Rutgers University, where I researched under the guidance of [Prof. Bo Yuan]. 
 
 Email: [2289217l@student.gla.ac.uk]  <br />
-       [buffon1017@std.uestc.edu.cn]  <br />
 Github: [https://github.com/MasterEndless]
 	 
 
@@ -21,6 +20,5 @@ Github: [https://github.com/MasterEndless]
 [University of Electronic Science and Technology of China]: https://www.uestc.edu.cn/
 [Oculus]: https://www.oculus.com/
 [2289217l@student.gla.ac.uk]: 2289217l@student.gla.ac.uk
-[buffon1017@std.uestc.edu.cn]: buffon1017@std.uestc.edu.cn
 [https://github.com/MasterEndless]: https://github.com/MasterEndless
 
