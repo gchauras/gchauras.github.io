@@ -31,15 +31,6 @@ pubs:
       doi:     "http://dx.doi.org/10.1145/2790060.2790063"
       image:   "http://www-sop.inria.fr/reves/Basilic/2015/DRCLLPD15/ateaser.jpg"
 
-    - title:   "Compiling high performance recursive filters"
-      author:  "G. Chaurasia, J. Ragan-Kelley, S. Paris, G. Drettakis, F. Durand"
-      journal: "High Performance Graphics"
-      year:    "2015"
-      url:     "http://mit-gfx.github.io/recfilter/"
-      doi:     "http://dx.doi.org/10.1145/2790060.2790063"
-      image:   "http://www-sop.inria.fr/reves/Basilic/2015/CRPDD15a/image.jpg"
-
-
 talks:
 
     - venue:  "Microsoft Research Redmond"
