@@ -72,49 +72,6 @@ journal_reviews:
         - year: 2017
         - year: 2018
 
-    - title: "ACM Transactions on Applied Perception"
-      url:   "http://tap.acm.org"
-      years:
-        - year: 2014
-
-    - title: "IEEE Transations on Image Processing"
-      url: "https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=83"
-      years:
-        - year: 2018
-
-    - title: "IEEE Transactions on Visualization and Computer Graphics"
-      url:   "http://www.computer.org/web/tvcg"
-      years:
-        - year: 2015
-        - year: 2016
-
-    - title: "Computer Graphics Forum"
-      url:   "http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291467-8659"
-      years:
-        - year: 2015
-
-    - title: "The Visual Computer"
-      url:   "http://link.springer.com/journal/371"
-      years:
-        - year: 2016
-        - year: 2017
-
-    - title: "Computers and Graphics"
-      url:   "http://www.journals.elsevier.com/computers-and-graphics/"
-      years:
-        - year: 2015
-        - year: 2017
-
-    - title: "IEEE Signal Processing Letters"
-      url:   "http://www.signalprocessingsociety.org/publications/periodicals/letters/"
-      years:
-        - year: 2015
-
-    - title: "Journal of Signal Image and Video Processing"
-      url:   "http://www.springer.com/engineering/signals/journal/11760"
-      years:
-        - year: 2013
-
 
 conference_reviews:
 
@@ -125,52 +82,7 @@ conference_reviews:
         - year: 2016
           url:  "http://s2016.siggraph.org/"
 
-    - title: "SIGGRAPH Asia"
-      years:
-        - year: 2013
-          url:  "http://sa2013.siggraph.org/en/"
-        - year: 2016
-          url:  "http://sa2016.siggraph.org/en/"
-        - year: 2017
-          url:  "http://sa2017.siggraph.org"
-        - year: 2018
-          url:  "http://sa2018.siggraph.org"
 
-    - title: "CVPR"
-      years:
-        - year: 2018
-          url: cvpr2018.thecvf.com
-
-    - title: "ACCV"
-      years:
-        - year: 2018
-          url: "http://accv2018.net/"
-
-    - title: "Eurographics"
-      years:
-        - year: 2012
-          url:  "http://www.eurographics2012.it/"
-        - year: 2016
-          url:  "http://eurographics2016.pt/"
-
-    - title: "Pacific Graphics"
-      years:
-        - year: 2014
-          url:  "http://graphics.ewha.ac.kr/PG14/"
-        - year: 2015
-          url:  "http://cg.cs.tsinghua.edu.cn/pg2015/"
-        - year: 2016
-          url:  "https://indico.oist.jp/indico/event/0/"
-
-    - title: "High Performance Graphics"
-      years:
-        - year: 2016
-          url:  "http://www.highperformancegraphics.org/2016/"
-
-    - title: "Virtual Reality Science & Technology (VRST)"
-      years:
-        - year: 2016
-          url:  "http://www.vrst2016.lrz.de/"
 ---
 
 Jump to [Publications](#peer-reviewed-publications), [Thesis](#doctoral-thesis), [Media](#media-coverage), [Reviewing](#professional-service)
