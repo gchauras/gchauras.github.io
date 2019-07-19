@@ -4,11 +4,11 @@ permalink: /research/
 title: Research
 pubs:
 
-    - title:   "Editable parametric dense foliage from 3D capture"
-      author:  "G. Chaurasia, P. Beardsley"
-      journal: "IEEE International Conference on Computer Vision"
-      note:    "ICCV"
-      year:    "2017"
+    - title:   "A Novel Maze Representation Approach for Finding Filled Path of A Mobile Robot"
+      author:  "C. Zheng, H. Liu, M. Ge, Y. Liu"
+      journal: "2019 International Conference on Computer, Network, Communication and Information Systems"
+      note:    "CNCI 2019"
+      year:    "2019"
       url:     "https://download.atlantis-press.com/article/125906938.pdf"
       doi:     "https://www.atlantis-press.com/proceedings/cnci-19/125906938"
 
