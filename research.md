@@ -12,13 +12,13 @@ pubs:
       url:     "https://download.atlantis-press.com/article/125906938.pdf"
       doi:     "https://www.atlantis-press.com/proceedings/cnci-19/125906938"
 
+
+prepared:
+
     - title:   "Automatic Image Quality Assessment of Fetal Sonographic Image by Convolutional Networks "
       author:  "H. Luo, H. Liu, B. Zhang, K. Li"
       journal: "Physics in Medicine & Biology"
       note:    "Under reviewing"
-      year:    "2019"
-      url:     "http://www-sop.inria.fr/reves/Basilic/2015/DRCLLPD15/"
-      doi:     "http://dx.doi.org/10.1145/2790060.2790063"
 
 
 talks:
@@ -85,6 +85,20 @@ Jump to [Publications](#peer-reviewed-publications), [Thesis](#doctoral-thesis),
 {% endif %} *{{pub.year}}*  [[web]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})] {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
 
 {% endfor %}
+
+{% for pub in page.prepared %}
+<!-- {% if pub.image %}
+{% include image.html url=pub.image caption="" height="80px" align=thumbnail %}
+{% endif %} -->
+{{pub.author}}<br />
+**{{pub.title}}**<br />
+*{{pub.journal}}*
+{% if pub.note %} *({{pub.note}})*
+{% endif %} 
+
+{% endfor %}
+
+
 
 -----
 
