@@ -14,12 +14,12 @@ pubs:
 
     - title:   "Automatic Image Quality Assessment of Fetal Sonographic Image by Convolutional Networks "
       author:  "H. Luo, H. Liu, B. Zhang, K. Li"
-      journal: "ACM Transactions on Graphics"
-      note:    "presented at SIGGRAPH"
-      year:    "2015"
+      journal: "Physics in Medicine & Biology"
+      note:    "Under reviewing"
+      year:    "2019"
       url:     "http://www-sop.inria.fr/reves/Basilic/2015/DRCLLPD15/"
       doi:     "http://dx.doi.org/10.1145/2790060.2790063"
-      image:   "http://www-sop.inria.fr/reves/Basilic/2015/DRCLLPD15/ateaser.jpg"
+
 
 talks:
 
