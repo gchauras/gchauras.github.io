@@ -13,13 +13,12 @@ pubs:
       doi:     "https://www.atlantis-press.com/proceedings/cnci-19/125906938"
 
 
-    - title:   "Deep joint demosaicking and denoising"
-      author:  "M. Gharbi, G. Chaurasia, S. Paris, F. Durand"
-      journal: "ACM Transactions on Graphics"
+    - title:   "Automatic Image Quality Assessment of Fetal Sonographic Image by Convolutional Networks "
+      author:  "H. Luo, H. Liu, B. Zhang, K. Li"
+      journal: "Submitted to ACM Transactions on Graphics"
       note:    "SIGGRAPH Asia"
-      year:    "2016"
-      url:     "https://groups.csail.mit.edu/graphics/demosaicnet/"
-      doi:     "http://dx.doi.org/10.1145/2980179.2982399"
+      year:    "2019"
+	
 
 
     - title:   "Multi view intrinsic decomposition & relighting"
