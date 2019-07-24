@@ -18,7 +18,8 @@ pubs:
       journal: "Submitted to ACM Transactions on Graphics"
       note:    "SIGGRAPH Asia"
       year:    "2019"
-	
+	  url:     "https://download.atlantis-press.com/article/125906938.pdf"
+      doi:     "https://www.atlantis-press.com/proceedings/cnci-19/125906938"
 
 
     - title:   "Multi view intrinsic decomposition & relighting"
