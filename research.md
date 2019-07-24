@@ -84,7 +84,7 @@ Jump to [Publications](#peer-reviewed-publications), [Thesis](#doctoral-thesis),
 
 {% assign thumbnail="right" %}
 
-{% for pub in site.data.cv.publications %}
+{% for pub in site.data.cv.pubs %}
 <!-- {% if pub.image %}
 {% include image.html url=pub.image caption="" height="80px" align=thumbnail %}
 {% endif %} -->
