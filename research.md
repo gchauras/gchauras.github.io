@@ -12,18 +12,8 @@ pubs:
       url:     "https://download.atlantis-press.com/article/125906938.pdf"
       doi:     "https://www.atlantis-press.com/proceedings/cnci-19/125906938"
 
-
     - title:   "Automatic Image Quality Assessment of Fetal Sonographic Image by Convolutional Networks "
       author:  "H. Luo, H. Liu, B. Zhang, K. Li"
-      journal: "Submitted to ACM Transactions on Graphics"
-      note:    "SIGGRAPH Asia"
-      year:    "2019"
-	  url:     "https://download.atlantis-press.com/article/125906938.pdf"
-      doi:     "https://www.atlantis-press.com/proceedings/cnci-19/125906938"
-
-
-    - title:   "Multi view intrinsic decomposition & relighting"
-      author:  "S. Duchene, C. Riant, G. Chaurasia, J. Lopez-Moreno, PY Laffont, S. Popov, A. Bousseau, G. Drettakis"
       journal: "ACM Transactions on Graphics"
       note:    "presented at SIGGRAPH"
       year:    "2015"
