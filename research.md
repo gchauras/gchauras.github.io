@@ -66,11 +66,11 @@ conference_reviews:
 
 ---
 
-Jump to [Publications](#peer-reviewed-publications), [Thesis](#doctoral-thesis), [Media](#media-coverage), [Reviewing](#professional-service)
+Jump to [Publications](#Publications), [Thesis](#Patent), [Media](#media-coverage), [Reviewing](#professional-service)
 
 ---
 
-## Peer reviewed publications
+## Publications
 
 {% assign thumbnail="right" %}
 
@@ -91,7 +91,7 @@ Jump to [Publications](#peer-reviewed-publications), [Thesis](#doctoral-thesis),
 {% include image.html url=pub.image caption="" height="80px" align=thumbnail %}
 {% endif %} -->
 {{pub.author}}<br />
-**{{pub.title}}**<br />
+**{{pub.title}}*<br />
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
 {% endif %} 
@@ -102,23 +102,22 @@ Jump to [Publications](#peer-reviewed-publications), [Thesis](#doctoral-thesis),
 
 -----
 
-## Doctoral thesis
+## Patent
 
-**Algorithms & perceptual analysis for interactive free viewpoint image-based navigation** [[web]({{ "/research/thesis/" | prepend: site.baseurl}})]<br />
-*Adviser: [George Drettakis](http://www-sop.inria.fr/members/George.Drettakis)* <br />
-[INRIA](http://www.inria.fr/sophia), 2014
+**Anti-visual Fatigue Multifunctional Table Lamp** [[pdf](https://github.com/MasterEndless/Personal-Files/blob/master/Anti-visual%20fatigue%20multifunctional%20table%20lamp.pdf?raw=true)]<br />
+*Patent Number: 2018112399222*<br />
 
 ------
 
-## Media coverage
+## Major Projects
+- **Table Information Extraction Based on PDFMiner**<br />
+	- Introduction: The goal is to extract the tabular data from the PDF file based on PDFminer in the field of Biochar. The reason for doing this is that there are often a lot of papers in this field that contain tabular data and therefore it is often time consuming to extract data manually. Besides, unlike the field in some medical field, most forms in the bioenergy field are presented as a three-line table so we could consider a general approach to parsing and extracting these tables. <br />
+	- Project homepage: [[Website](https://github.com/text-mining-project/Table-information-extraction)]
+	
+- **Intelligent Mobile Rover Design**<br />
+	- Introduction: The goal is to design and assemble a automatic mobile rover to accomplish prescribed tasks including line tracing, color matching, ultrasonic rangingradar navigation, manipulator design, wireless communication etc. The major hardwares we use include Raspberry Pi, mbed, FGPA, camera, DC motor; and the software is mainly implemented in python and C. <br />
+	- Project homepage: [[Website](https://github.com/text-mining-project/Table-information-extraction)]
 
-{% for pub in site.data.cv.publications %}
-{% if pub.media %}
-- {{pub.title}} ({{pub.note}}, {{pub.year}}){% for article in pub.media %}
-    - [{{article.url}}]({{article.url}}){% endfor %}
-{% endif %}
-
-{% endfor %}
 
 ------
 
