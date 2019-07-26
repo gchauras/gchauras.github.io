@@ -92,8 +92,8 @@ Includes: [Publications](#Publications), [Patent](#Patent), [Major Projects](#Ma
 <br />
 	
 - **A Comprehensive Analysis and Prediction of American Opioid Abuse**<br />
-	- This project aims at analyzing and predicting the U.S. opioid abuse data as well as identifying a possible strategy for countering the opioid crisis. ".   <br />
-	- Paper: [[pdf](https://github.com/MasterEndless/Personal-Files/blob/master/MCM2019.pdf)]	
+	- This project aims at analyzing and predicting the U.S. opioid abuse data by Gaussian Process Regreesion and Gray Correlation Analysis,  as well as identifying a possible strategy for countering the opioid crisis by Gradient Boostling Decision Tree.   <br />
+	- Paper: [[pdf](https://github.com/MasterEndless/Personal-Files/blob/master/MCM2019.pdf?raw=true)]	
 	
 <br />
 	
