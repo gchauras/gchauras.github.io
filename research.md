@@ -91,6 +91,12 @@ Includes: [Publications](#Publications), [Patent](#Patent), [Major Projects](#Ma
 
 <br />
 	
+- **A Comprehensive Analysis and Prediction of American Opioid Abuse**<br />
+	- This project aims at analyzing and predicting the U.S. opioid abuse data as well as identifying a possible strategy for countering the opioid crisis. ".   <br />
+	- Paper: [[pdf](https://github.com/MasterEndless/Personal-Files/blob/master/MCM2019.pdf)]	
+	
+<br />
+	
 - **Design of a Crossbar Switch System by VHDL**<br />
 	- This project aims at designing a data packet routing system by VHDL to tackle communication between different modules in a common bus.   <br />
 	- Project homepage: [[Website](https://github.com/MasterEndless/Crossbar-Switch-System-Deisgn)]
