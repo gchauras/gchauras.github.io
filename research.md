@@ -79,15 +79,15 @@ Includes: [Publications](#Publications), [Patent](#Patent), [Major Projects](#Ma
 
 <br />
 	
-- **Intelligent Mobile Rover Design**<br />
-	- The goal is to design and assemble a automatic mobile rover to accomplish prescribed tasks including line tracing, color matching, ultrasonic rangingradar navigation, manipulator design, wireless communication etc. The major hardwares we use include Raspberry Pi, mbed, FGPA, camera, DC motor; and the software is mainly implemented in python and C++. <br />
+- **Multifunctional Intelligent Mobile Rover Design**<br />
+	- The goal is to design and assemble an automatic mobile rover to accomplish prescribed tasks including line tracing, color matching, ultrasonic rangingradar navigation, manipulator design, wireless communication etc. The major hardwares we use include Raspberry Pi, mbed, FGPA, camera, DC motor; and the software is mainly implemented in python and C++. <br />
 	- Project homepage: [[Website](https://github.com/MasterEndless/Mobile-Rover-Design)]
 
 <br />
 	
-- **Design of a Vision Protector Based on Binocular Ranging Algorithm**<br />
-	- The goal is to design a vision protector which can relieve visual fatigue and protect eye health. The innovation of this design lies in relieving visual fatigue by using intelligent algorithm in computer vision instead of traditional ultrasonic ranging to measure the distance between users and books.Also, it solves all problems of existing vision protectors perfectly (advantages include: non-contacting, accurate, high fault tolerance, convenient).   <br />
-	- Project homepage: [[Website](https://github.com/MasterEndless/Mobile-Rover-Design)]
+- **Design of a Vision Protection Lamp Based on Binocular Ranging Algorithm**<br />
+	- The goal is to design a vision protection lamp which can relieve visual fatigue and protect eye health. The innovation of this design lies in relieving visual fatigue by using intelligent algorithm in computer vision instead of traditional ultrasonic ranging to measure the distance between users and books. Also, it solves all problems of existing vision protectors perfectly (advantages include: non-contacting, accurate, high fault tolerance, convenient).   <br />
+	- Project homepage: [[Website](https://github.com/MasterEndless/Vision-Protector-Design-Based-on-Binocular-Parallex-Ranging-Algorithm-)]
 
 <br />
 	
