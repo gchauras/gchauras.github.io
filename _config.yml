@@ -11,9 +11,7 @@ baseurl: ""                     # the subpath of your site, e.g. /blog
 # baseurl: ""
 
 author:
-    name: Gaurav Chaurasia
-    facebook: gchauras
-    scholar: pBaL_DgAAAAJ
+    name: Han Liu
 
 # Build settings
 markdown: kramdown
@@ -24,12 +22,7 @@ highlighter: rouge
 # Set 'provider' to false to turn analytics off globally.
 #
 analytics:
-    provider: statcounter
-    statcounter:
-        sc_project  : 5896371
-        sc_security : a84acdc5
-        sc_invisible: 1
-        sc_text     : 2
+    provider:
     google:
         tracking_id: ''
     getclicky:
