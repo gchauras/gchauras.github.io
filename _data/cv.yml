@@ -351,6 +351,8 @@ reviews:
               url:  http://sa2017.siggraph.org
             - year: 2018
               url:  http://sa2018.siggraph.org
+            - year: 2019
+              url:  http://sa2019.siggraph.org
         - title: Eurographics
           years:
             - year: 2012
