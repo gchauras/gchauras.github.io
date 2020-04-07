@@ -114,6 +114,7 @@ technical_skills:
     - CUDA
     - OpenCV
     - LaTeX
+    - Mercurial
     - Git
     - SVN
     - Bash
@@ -132,9 +133,18 @@ awards:
       detail: All India Rank 54 in IIT-JEE 2005 (entrance examination for Indian Institutes of Technology) amongst nearly 300,000 aspirants.
 
 publications:
+    - title:   Passthrough+: Real-time Stereoscopic View Synthesis for Mobile Mixed Reality
+      author:  G. Chaurasia, A. Nieuwoudt, A. E. Ichim, R Szeliski, A. Sorkine-Hornung
+      journal: Proceedings of ACM on Computer Graphics and Interactive Techniques
+      note:    to appear
+      year:    2020
+      doi:
+      url:
+      media:
     - title:   RNN-based generative model for fine-grained sketching
       author:  A. Jenal, N. Savinov, T. Sattler, G. Chaurasia
-      journal: under preparation
+      journal: arXiv
+      url:     https://arxiv.org/abs/1901.03991
       note:
       year:    2018
     - title:   Editable parametric dense foliage from 3D capture
