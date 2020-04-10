@@ -136,11 +136,17 @@ publications:
     - title:   Passthrough+: Real-time Stereoscopic View Synthesis for Mobile Mixed Reality
       author:  G. Chaurasia, A. Nieuwoudt, A. E. Ichim, R Szeliski, A. Sorkine-Hornung
       journal: Proceedings of ACM on Computer Graphics and Interactive Techniques
-      note:    to appear
+      note:    to appear in I3D
       year:    2020
       doi:
       url:
       media:
+          - name: Oculus Connect 6
+            url:  https://www.oculus.com/blog/oculus-quest-at-oc6-introducing-hand-tracking-oculus-link-passthrough-on-quest-and-more/?locale=en_US
+          - name: VentureBeat
+            url:  https://venturebeat.com/2019/10/02/oculus-quest-gets-go-apps-passthrough-and-easier-firmware-updates/
+          - name: UploadVR
+            url:  https://uploadvr.com/oc6-quest-passthrough/?fbclid=IwAR1uZPB9ODf76lw7p3rNlM_A4lK0EcS1yQfCpdly5uRiCMj3XiqrrM1ohco
     - title:   RNN-based generative model for fine-grained sketching
       author:  A. Jenal, N. Savinov, T. Sattler, G. Chaurasia
       journal: arXiv
