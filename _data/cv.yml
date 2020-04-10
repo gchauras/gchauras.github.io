@@ -133,7 +133,7 @@ awards:
       detail: All India Rank 54 in IIT-JEE 2005 (entrance examination for Indian Institutes of Technology) amongst nearly 300,000 aspirants.
 
 publications:
-    - title:   Passthrough+: Real-time Stereoscopic View Synthesis for Mobile Mixed Reality
+    - title:   Passthrough+\: Real-time Stereoscopic View Synthesis for Mobile Mixed Reality
       author:  G. Chaurasia, A. Nieuwoudt, A. E. Ichim, R Szeliski, A. Sorkine-Hornung
       journal: Proceedings of ACM on Computer Graphics and Interactive Techniques
       note:    to appear in I3D
