@@ -281,7 +281,7 @@ Jump to [Publications](#peer-reviewed-publications), [Thesis](#doctoral-thesis),
 
 ---
 
-## Peer reviewed publications
+## Publications (peer reviewed unless stated otherwise)
 
 {% assign thumbnail="right" %}
 
