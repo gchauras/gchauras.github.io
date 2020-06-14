@@ -281,7 +281,7 @@ publications:
       internal: 1
 
 talks:
-    - venue:  CVPR tutorial: Novel View Synthesis: From Depth-Based Warping to Multi-Plane Images and Beyond
+    - venue:  "CVPR tutorial: Novel View Synthesis: From Depth-Based Warping to Multi-Plane Images and Beyond"
       date:   June 14, 2020
       url:    https://nvlabs.github.io/nvs-tutorial-cvpr2020/
     - venue:  Microsoft Research Redmond
