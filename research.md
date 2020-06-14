@@ -265,7 +265,7 @@ conference_reviews:
           url:  "http://www.vrst2016.lrz.de/"
 ---
 
-Jump to [Publications](#peer-reviewed-publications), [Thesis](#doctoral-thesis), [Media](#media-coverage), [Reviewing](#professional-service)
+Jump to [Publications](#peer-reviewed-publications), [Thesis](#doctoral-thesis), [Talks](#invited-talks), [Media](#media-coverage), [Reviewing](#professional-service)
 
 ---
 
