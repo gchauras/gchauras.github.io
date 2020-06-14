@@ -144,22 +144,6 @@ pubs:
       doi:     "http://dx.doi.org/10.1145/1924559.1924604"
       internal: "1"
 
-talks:
-
-    - venue:  "CVPR tutorial: Novel View Synthesis: From Depth-Based Warping to Multi-Plane Images and Beyond"
-      date:   "June 14, 2020"
-      url:    "https://nvlabs.github.io/nvs-tutorial-cvpr2020/"
-
-    - venue:  "Microsoft Research Redmond"
-      date:   "July 19, 2013"
-      url:    "http://research.microsoft.com/apps/video/dl.aspx?id=198331"
-
-    - venue:  "MIT CSAIL"
-      date:   "Sept 11, 2013"
-      url:    "/research/talks/csail_2013/"
-      internal: "1"
-
-
 grant_reviews:
     - title: "National Science Foundation (USA)"
       url: "https://www.nsf.gov"
@@ -300,6 +284,17 @@ Jump to [Publications](#peer-reviewed-publications), [Thesis](#doctoral-thesis),
 {% endif %} *{{pub.year}}*  [[web]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})] {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
 
 {% endfor %}
+
+-----
+
+## Invited talks
+
+{% for talk in site.data.cv.talks %}
+- {{talk.date}}: {{talk.venue}} [[url]({{talk.url}})]{% if talk.slides %}
+[[slides]({{talk.slides}})]{% endif %}
+
+{% endfor %}
+
 
 -----
 
