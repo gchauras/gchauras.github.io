@@ -5,6 +5,60 @@ title: Hikes and via ferratas
 
 completed:
 
+    - name: Lugano - Cima di Fojorina - Bogno
+      notes: 24.6 km, 2145 m, 6:30 hours
+      location: Ticino, Switzerland
+      date: Jul 28, 2019
+      url: https://map.schweizmobil.ch/?lang=en&photos=yes&logo=yes&season=summer&resolution=16.71&E=2722367&N=1100495&bgLayer=pk&trackId=5805391
+      track: https://www.strava.com/activities/2573903301
+      photos:
+      private_photos:
+
+    - name: Chalet du Soldat - Chateaux d'Oex
+      notes: 27 km, 1120 m, 5:30 hours
+      location: Gruyere, Switzerland
+      date: Jul 14, 2019
+      url: https://map.schweizmobil.ch/?lang=en&photos=yes&logo=yes&season=summer&resolution=13.33&E=2580461&N=1152606&bgLayer=pk&trackId=5610901
+      track: https://www.strava.com/activities/2531724690
+      photos:
+      private_photos:
+
+    - name: Gastlosen - Chalet du Soldat
+      notes: 18 km, 1573 m, 5 hours
+      location: Gruyere, Switzerland
+      date: Jul 13, 2019
+      url: https://map.schweizmobil.ch/?lang=en&photos=yes&logo=yes&season=summer&resolution=5.79&E=2587916&N=1159749&bgLayer=pk&trackId=5705574
+      track: https://www.strava.com/activities/2529023500
+      photos:
+      private_photos:
+
+    - name: Fronalppass - Murgsee
+      notes: 31.24 km, 1838 m, 7:30 hours
+      location:
+      date: Jun 23, 2019
+      url: https://map.schweizmobil.ch/?lang=en&photos=yes&logo=yes&season=summer&resolution=12.79&E=2728333&N=1215269&bgLayer=pk&trackId=5633028
+      track: https://www.strava.com/activities/2474984423
+      photos:
+      private_photos:
+
+    - name: Bergseehutte - Chelenaplgletscher
+      notes: 18 km, 808 m, 6 hours
+      location:
+      date: Jun 30, 2019
+      url: https://map.schweizmobil.ch/?lang=en&photos=yes&logo=yes&season=summer&resolution=7.06&E=2679786&N=1168050&bgLayer=pk&trackId=5643755
+      track: https://www.strava.com/activities/2492550388
+      photos:
+      private_photos:
+
+    - name: Goschenen - Bergseehutte
+      notes: 13.72 km, 1231 m, 3:45 hours
+      location:
+      date: Jun 29, 2019
+      url: https://map.schweizmobil.ch/?lang=en&photos=yes&logo=yes&season=summer&resolution=7.06&E=2679786&N=1168050&bgLayer=pk&trackId=5643755
+      track: https://www.strava.com/activities/2492526613
+      photos:
+      private_photos:
+
     - name: Hoher Kasten - Ebenalp
       notes: 30 km, 2200 m, 8:30 hours
       location: Appenzel, Switzerland
