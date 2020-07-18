@@ -5,7 +5,61 @@ title: Hikes and via ferratas
 
 completed:
 
-    - name: Lugano - Cima di Fojorina - Bogno
+    - name: Sunnega 5-lakes extended to Findelgletscher
+      notes: 11.54 km, 274 m, 2:54 hours
+      date: Jul 2, 2020
+      location: Zermatt, Switzerland
+      track: https://www.strava.com/activities/3702558932
+      url: https://map.schweizmobil.ch/?lang=en&photos=yes&logo=yes&season=summer&bgLayer=pk&resolution=2.53&E=2627432&N=1095591&layers=Wanderland&trackId=7469091
+      photos:
+      private_photos:
+
+    - name: Lauvaux vineyards
+      notes: 20.5 km, 378 m, 4:43 hours
+      date: Jun 27, 2020
+      location: Vaud, Switzerland
+      track: https://www.strava.com/activities/3680728359
+      url:
+      photos:
+      private_photos:
+
+    - name: Brienzersee
+      notes: 20 km, 581 m, 3:21 hours
+      date: Jun 1, 2020
+      location: Bern, Switzerland
+      track: https://www.strava.com/activities/3547194502
+      url: https://map.schweizmobil.ch/?lang=en&photos=yes&logo=yes&season=summer&bgLayer=pk&resolution=9.24&E=2640275&N=1174488&layers=Wanderland&trackId=7016110
+      photos:
+      private_photos:
+
+    - name: Federispitz
+      notes: 15.5 km, 1471 m, 5:00 hours
+      location: Bern, Switzerland
+      date: Jun 21, 2020
+      url: https://map.schweizmobil.ch/?lang=en&photos=yes&logo=yes&season=summer&bgLayer=pk&resolution=4.67&E=2725823&N=1223807&trackId=7186133
+      track: https://www.strava.com/activities/3649859582
+      photos:
+      private_photos:
+
+    - name: Appenzeller Alpenweg
+      notes: 30.09 km, 1639 m, 5:57 hours
+      location: Appenzell, Switzerland
+      date: May 30, 2020
+      url: https://map.schweizmobil.ch/?lang=en&photos=yes&logo=yes&season=summer&bgLayer=pk&resolution=8.27&E=2740056&N=1238910&layers=Wanderland&highlight=WanderlandRoutenLokal*980&trackId=6731604
+      track: https://www.strava.com/activities/3536832823
+      photos:
+      private_photos:
+
+    - name: Oberstockensee
+      notes: 19.8 km, 1228 m, 5:30 hours
+      location: Bern, Switzerland
+      date: May 24, 2020
+      url: https://map.schweizmobil.ch/?lang=en&photos=yes&logo=yes&season=summer&bgLayer=pk&resolution=11.11&E=2603358&N=1169253&layers=Wanderland&trackId=6907165
+      track: https://www.strava.com/activities/3504819742
+      photos:
+      private_photos:
+
+    - name: Lugano - Cima di Fiorina - Bogno
       notes: 24.6 km, 2145 m, 6:30 hours
       location: Ticino, Switzerland
       date: Jul 28, 2019
@@ -34,7 +88,7 @@ completed:
 
     - name: Fronalppass - Murgsee
       notes: 31.24 km, 1838 m, 7:30 hours
-      location:
+      location: St. Gallen, Switzerland
       date: Jun 23, 2019
       url: https://map.schweizmobil.ch/?lang=en&photos=yes&logo=yes&season=summer&resolution=12.79&E=2728333&N=1215269&bgLayer=pk&trackId=5633028
       track: https://www.strava.com/activities/2474984423
@@ -43,16 +97,16 @@ completed:
 
     - name: Bergseehutte - Chelenaplgletscher
       notes: 18 km, 808 m, 6 hours
-      location:
+      location: Uri, Switzerland
       date: Jun 30, 2019
       url: https://map.schweizmobil.ch/?lang=en&photos=yes&logo=yes&season=summer&resolution=7.06&E=2679786&N=1168050&bgLayer=pk&trackId=5643755
       track: https://www.strava.com/activities/2492550388
       photos:
       private_photos:
 
-    - name: Goschenen - Bergseehutte
+    - name: Goschenen - Goscheneralpsee - Bergseehutte
       notes: 13.72 km, 1231 m, 3:45 hours
-      location:
+      location: Uri, Switzerland
       date: Jun 29, 2019
       url: https://map.schweizmobil.ch/?lang=en&photos=yes&logo=yes&season=summer&resolution=7.06&E=2679786&N=1168050&bgLayer=pk&trackId=5643755
       track: https://www.strava.com/activities/2492526613
