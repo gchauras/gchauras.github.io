@@ -5,14 +5,14 @@ title: Hikes and via ferratas
 
 completed:
     - name: Erzhornsattel - Alplisee (T4)
-      notes: 16.4, 1200 m, 4:00 hours
+      notes: 15.9, 1200 m, 4:00 hours
       date: Jul 19, 2020
       location: Arosa, Switzerland
-      track: 
+      track: https://www.strava.com/activities/3948743398
       url: https://map.schweizmobil.ch/?lang=en&photos=yes&logo=yes&season=summer&bgLayer=pk&resolution=6.84&E=2769313&N=1180740&trackId=7714916
       photos:
       private_photos:
-      
+
     - name: Krontenhutte - Steinchelenfurggi - Ruchpass (T4+)
       notes: 21.1 km, 1635 m (2300 m down), 6:30 hours
       date: Jul 19, 2020
@@ -21,7 +21,7 @@ completed:
       url: https://map.schweizmobil.ch/?lang=en&photos=yes&logo=yes&season=summer&bgLayer=pk&resolution=4.81&E=2689561&N=1184161&layers=Wanderland&trackId=7792390
       photos:
       private_photos:
-    
+
     - name: Sunnega 5-lakes extended to Findelgletscher
       notes: 11.54 km, 274 m, 2:54 hours
       date: Jul 2, 2020
