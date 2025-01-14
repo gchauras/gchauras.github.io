@@ -1,14 +1,15 @@
 name: Gaurav Chaurasia
-affiliation: Oculus
+affiliation: Meta
 address: Zurich, Switzerland
-email: gchauras@csail.mit.edu
-web: http://people.csail.mit.edu/gchauras/
+email: gchauras@meta.com
+web: https://gchauras.github.io/
 
 research_interests:
-    - Computer vision and machine learning for VR and related applications.
+    - AI agents
+    - Computer vision and machine learning (for AR/VR).
     - 3D reconstruction and fitting to RGB-D data.
     - Neural networks for 2D/3D synthesis.
-    - Hardware acceleration -- compilers, GPGPU, ARM-optimisation.
+    - Hardware acceleration:- compilers, GPGPU, ARM-optimisation.
 
 education:
     - date:         2010-2014
@@ -32,8 +33,8 @@ education:
 
 positions:
     - date:         2018-till date
-      title:        Computer Vision
-      affiliation:  Oculus
+      title:        AI Research Scientist
+      affiliation:  Meta
       location:     Zurich, Switzerland
       mentor:
       notes:
