@@ -13,8 +13,7 @@ my PhD under the guidance of [George Drettakis] at [INRIA] in the beautiful Fren
 Riviera. I obtained my Masters degree in computer science at [ENSIMAG]. In an
 earlier life, I used to be an undergrad at [Indian Institute of Technology Delhi].
 
-Email: [gchauras@fb.com] (Facebook related communication) <br />
-Email: [gchauras@csail.mit.edu] (others)
+Email: [gchauras@meta.com]
 
 You can find some professional details about me on [Google Scholar].
 
@@ -31,6 +30,5 @@ includes some Gods (courtesy [Peter Vangorp]).
 [MIT]: http://www.csail.mit.edu/
 [Oculus]: https://www.oculus.com/
 [Google Scholar]: http://scholar.google.com/citations?user={{site.author.scholar}}&hl=en&oi=ao
-[gchauras@csail.mit.edu]: mailto:gchauras@csail.mit.edu
-[gchauras@fb.com]: mailto:gchauras@fb.com
+[gchauras@meta.com]: mailto:gchauras@meta.com
 [Peter Vangorp]: http://users.telenet.be/pvangorp/
