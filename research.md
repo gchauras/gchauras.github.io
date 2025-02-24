@@ -4,6 +4,38 @@ permalink: /research/
 title: Research
 pubs:
 
+    - title:   "MLGym: A New Framework and Benchmark for Advancing AI Research Agents"
+      author:  "Deepak Nathani, Lovish Madaan, Nicholas Roberts, Nikolay Bashlykov, Ajay Menon, Vincent Moens, Amar Budhiraja, Despoina Magka, Vladislav Vorotilov, Gaurav Chaurasia, Dieuwke Hupkes, Ricardo Silveira Cabral, Tatiana Shavrina, Jakob Foerster, Yoram Bachrach, William Yang Wang, Roberta Raileanu"
+      journal: "arXiv"
+      note:    ""
+      year:    "2025"
+      url:     "https://arxiv.org/abs/2502.14499"
+      doi:     "https://doi.org/10.48550/arXiv.2502.14499"
+      media:
+        - name: HuggingFace
+          url:  https://huggingface.co/papers/2502.14499
+
+    - title:   "Passthrough+: Real-time Stereoscopic View Synthesis for Mobile Mixed Reality"
+      author:  "Gaurav Chaurasia, Arthur Nieuwoudt, Alexandru-Eugen Ichim, Richard Szeliski"
+      journal: "ACM on Computer Graphics and Interactive Techniques"
+      note:    "I3D"
+      year:    "2020"
+      url:     "https://research.facebook.com/publications/passthrough-real-time-stereoscopic-view-synthesis-for-mobile-mixed-reality/"
+      doi:     "https://doi.org/10.1145/3384540"
+      media:
+        - name: Oculus Connect 6
+          url:  https://www.oculus.com/blog/oculus-quest-at-oc6-introducing-hand-tracking-oculus-link-passthrough-on-quest-and-more/?locale=en_US
+        - name: VentureBeat
+          url:  https://venturebeat.com/2019/10/02/oculus-quest-gets-go-apps-passthrough-and-easier-firmware-updates/
+        - name: UploadVR
+          url:  https://uploadvr.com/oc6-quest-passthrough/?fbclid=IwAR1uZPB9ODf76lw7p3rNlM_A4lK0EcS1yQfCpdly5uRiCMj3XiqrrM1ohco
+        - name: Meta Connect
+          url:  https://www.youtube.com/watch?v=3V__SEPobM4
+        - name: Meta developer blog
+          url:  https://developers.meta.com/horizon/blog/mixed-reality-with-passthrough/
+        - name: Passthrough games
+          url:  https://www.youtube.com/watch?v=SJUM3VFat9s
+
     - title:   "Editable parametric dense foliage from 3D capture"
       author:  "G. Chaurasia, P. Beardsley"
       journal: "IEEE International Conference on Computer Vision"

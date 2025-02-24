@@ -108,7 +108,6 @@ supervised_theses:
 
 technical_skills:
     - C++
-    - Matlab
     - Python
     - OpenGL
     - GLSL
@@ -122,6 +121,7 @@ technical_skills:
     - Vim
     - Java
     - Visual Studio
+    - Matlab
 
 awards:
     - date:   Aug 2010
@@ -134,20 +134,37 @@ awards:
       detail: All India Rank 54 in IIT-JEE 2005 (entrance examination for Indian Institutes of Technology) amongst nearly 300,000 aspirants.
 
 publications:
+    - title:   "MLGym: A New Framework and Benchmark for Advancing AI Research Agents"
+      author:  "Deepak Nathani, Lovish Madaan, Nicholas Roberts, Nikolay Bashlykov, Ajay Menon, Vincent Moens, Amar Budhiraja, Despoina Magka, Vladislav Vorotilov, Gaurav Chaurasia, Dieuwke Hupkes, Ricardo Silveira Cabral, Tatiana Shavrina, Jakob Foerster, Yoram Bachrach, William Yang Wang, Roberta Raileanu"
+      journal: "arXiv"
+      note:    ""
+      year:    "2025"
+      url:     "https://arxiv.org/abs/2502.14499"
+      doi:     "https://doi.org/10.48550/arXiv.2502.14499"
+      media:
+        - name: HuggingFace
+          url:  https://huggingface.co/papers/2502.14499
+
     - title:   "Passthrough+: Real-time Stereoscopic View Synthesis for Mobile Mixed Reality"
       author:  G. Chaurasia, A. Nieuwoudt, A. E. Ichim, R Szeliski, A. Sorkine-Hornung
       journal: Proceedings of ACM on Computer Graphics and Interactive Techniques
-      note:    to appear in I3D
+      note:    I3D
       year:    2020
       doi:     https://doi.org/10.1145/3384540
-      url:     https://dl.acm.org/doi/abs/10.1145/3384540
+      url:     "https://research.facebook.com/publications/passthrough-real-time-stereoscopic-view-synthesis-for-mobile-mixed-reality/"
       media:
-          - name: Oculus Connect 6
-            url:  https://www.oculus.com/blog/oculus-quest-at-oc6-introducing-hand-tracking-oculus-link-passthrough-on-quest-and-more/?locale=en_US
-          - name: VentureBeat
-            url:  https://venturebeat.com/2019/10/02/oculus-quest-gets-go-apps-passthrough-and-easier-firmware-updates/
-          - name: UploadVR
-            url:  https://uploadvr.com/oc6-quest-passthrough/?fbclid=IwAR1uZPB9ODf76lw7p3rNlM_A4lK0EcS1yQfCpdly5uRiCMj3XiqrrM1ohco
+        - name: Oculus Connect 6
+          url:  https://www.oculus.com/blog/oculus-quest-at-oc6-introducing-hand-tracking-oculus-link-passthrough-on-quest-and-more/?locale=en_US
+        - name: VentureBeat
+          url:  https://venturebeat.com/2019/10/02/oculus-quest-gets-go-apps-passthrough-and-easier-firmware-updates/
+        - name: UploadVR
+          url:  https://uploadvr.com/oc6-quest-passthrough/?fbclid=IwAR1uZPB9ODf76lw7p3rNlM_A4lK0EcS1yQfCpdly5uRiCMj3XiqrrM1ohco
+        - name: Meta Connect
+          url:  https://www.youtube.com/watch?v=3V__SEPobM4
+        - name: Meta developer blog
+          url:  https://developers.meta.com/horizon/blog/mixed-reality-with-passthrough/
+        - name: Passthrough games
+          url:  https://www.youtube.com/watch?v=SJUM3VFat9s
     - title:   RNN-based generative model for fine-grained sketching
       author:  A. Jenal, N. Savinov, T. Sattler, G. Chaurasia
       journal: arXiv
