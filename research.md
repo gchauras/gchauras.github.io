@@ -6,12 +6,14 @@ pubs:
 
     - title:   "MLGym: A New Framework and Benchmark for Advancing AI Research Agents"
       author:  "Deepak Nathani, Lovish Madaan, Nicholas Roberts, Nikolay Bashlykov, Ajay Menon, Vincent Moens, Amar Budhiraja, Despoina Magka, Vladislav Vorotilov, Gaurav Chaurasia, Dieuwke Hupkes, Ricardo Silveira Cabral, Tatiana Shavrina, Jakob Foerster, Yoram Bachrach, William Yang Wang, Roberta Raileanu"
-      journal: "arXiv"
+      journal: Second Conference on Language Modeling (CoLM),
       note:    ""
       year:    "2025"
-      url:     "https://arxiv.org/abs/2502.14499"
+      url:     "https://sites.google.com/view/mlgym?pli=1"
       doi:     "https://doi.org/10.48550/arXiv.2502.14499"
       media:
+        - name: github
+          url: https://github.com/facebookresearch/MLGym
         - name: HuggingFace
           url:  https://huggingface.co/papers/2502.14499
 
