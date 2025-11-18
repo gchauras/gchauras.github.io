@@ -4,6 +4,15 @@ permalink: /research/
 title: Research
 pubs:
 
+    - title:   "Souper-Model: How Simple Arithmetic Unlocks State-of-the-Art LLM Performance"
+      author:  "Shalini Maiti, Amar Budhiraja, Bhavul Gauri, Gaurav Chaurasia, Anton Protopopov, Alexis Audran-Reiss, Michael Slater, Despoina Magka, Tatiana Shavrina, Roberta Raileanu, Yoram Bachrach"
+      journal: "arXiv:2511.13254"
+      doi:     "https://arxiv.org/abs/2511.13254"
+      year:    "2025"
+      media:
+        - name: HuggingFace
+          url:  "https://huggingface.co/papers/2511.13254"
+
     - title:   "MLGym: A New Framework and Benchmark for Advancing AI Research Agents"
       author:  "Deepak Nathani, Lovish Madaan, Nicholas Roberts, Nikolay Bashlykov, Ajay Menon, Vincent Moens, Amar Budhiraja, Despoina Magka, Vladislav Vorotilov, Gaurav Chaurasia, Dieuwke Hupkes, Ricardo Silveira Cabral, Tatiana Shavrina, Jakob Foerster, Yoram Bachrach, William Yang Wang, Roberta Raileanu"
       journal: Conference on Language Modeling (CoLM),
