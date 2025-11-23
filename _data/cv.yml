@@ -137,23 +137,22 @@ publications:
       author:  "Shalini Maiti, Amar Budhiraja, Bhavul Gauri, Gaurav Chaurasia, Anton Protopopov, Alexis Audran-Reiss, Michael Slater, Despoina Magka, Tatiana Shavrina, Roberta Raileanu, Yoram Bachrach"
       journal: "arXiv:2511.13254"
       doi:     "https://arxiv.org/abs/2511.13254"
+      url:     "https://huggingface.co/papers/2511.13254"
       year:    "2025"
+      github:  "https://github.com/facebookresearch/llm_souping"
+      huggingface: "https://huggingface.co/papers/2511.13254" 
       media:
-        - name: HuggingFace
-          url:  "https://huggingface.co/papers/2511.13254"
+        - name: Youtube
+          url:  "https://www.youtube.com/watch?v=S10H6cRGbVU"
 
     - title:   "MLGym: A New Framework and Benchmark for Advancing AI Research Agents"
       author:  "Deepak Nathani, Lovish Madaan, Nicholas Roberts, Nikolay Bashlykov, Ajay Menon, Vincent Moens, Amar Budhiraja, Despoina Magka, Vladislav Vorotilov, Gaurav Chaurasia, Dieuwke Hupkes, Ricardo Silveira Cabral, Tatiana Shavrina, Jakob Foerster, Yoram Bachrach, William Yang Wang, Roberta Raileanu"
-      journal: Conference on Language Modeling (CoLM),
-      note:    ""
+      journal: "Conference on Language Modeling (CoLM)"
       year:    "2025"
       url:     "https://sites.google.com/view/mlgym?pli=1"
       doi:     "https://doi.org/10.48550/arXiv.2502.14499"
-      media:
-        - name: github
-          url: https://github.com/facebookresearch/MLGym
-        - name: HuggingFace
-          url:  https://huggingface.co/papers/2502.14499
+      github:  "https://github.com/facebookresearch/MLGym"
+      huggingface: "https://huggingface.co/papers/2502.14499"
 
     - title:   "Passthrough+: Real-time Stereoscopic View Synthesis for Mobile Mixed Reality"
       author:  "Gaurav Chaurasia, Arthur Nieuwoudt, Alexandru-Eugen Ichim, Richard Szeliski"
