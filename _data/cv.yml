@@ -5,11 +5,10 @@ email: gchauras@meta.com
 web: https://gchauras.github.io/
 
 research_interests:
-    - AI agents
-    - Computer vision and machine learning (for AR/VR).
-    - 3D reconstruction and fitting to RGB-D data.
-    - Neural networks for 2D/3D synthesis.
-    - Hardware acceleration:- compilers, GPGPU, ARM-optimisation.
+- AI agents for automating SW / ML engineering,
+- Infrastructure for running and benchmarking AI agents,
+- LLM post training and reinforcement learning recipes,
+- 3D vision, real time rendering and ML for AR/VR experiences.
 
 education:
     - date:         2010-2014
@@ -134,24 +133,35 @@ awards:
       detail: All India Rank 54 in IIT-JEE 2005 (entrance examination for Indian Institutes of Technology) amongst nearly 300,000 aspirants.
 
 publications:
+    - title:   "Souper-Model: How Simple Arithmetic Unlocks State-of-the-Art LLM Performance"
+      author:  "Shalini Maiti, Amar Budhiraja, Bhavul Gauri, Gaurav Chaurasia, Anton Protopopov, Alexis Audran-Reiss, Michael Slater, Despoina Magka, Tatiana Shavrina, Roberta Raileanu, Yoram Bachrach"
+      journal: "arXiv:2511.13254"
+      doi:     "https://arxiv.org/abs/2511.13254"
+      year:    "2025"
+      media:
+        - name: HuggingFace
+          url:  "https://huggingface.co/papers/2511.13254"
+
     - title:   "MLGym: A New Framework and Benchmark for Advancing AI Research Agents"
       author:  "Deepak Nathani, Lovish Madaan, Nicholas Roberts, Nikolay Bashlykov, Ajay Menon, Vincent Moens, Amar Budhiraja, Despoina Magka, Vladislav Vorotilov, Gaurav Chaurasia, Dieuwke Hupkes, Ricardo Silveira Cabral, Tatiana Shavrina, Jakob Foerster, Yoram Bachrach, William Yang Wang, Roberta Raileanu"
-      journal: "arXiv"
+      journal: Conference on Language Modeling (CoLM),
       note:    ""
       year:    "2025"
-      url:     "https://arxiv.org/abs/2502.14499"
+      url:     "https://sites.google.com/view/mlgym?pli=1"
       doi:     "https://doi.org/10.48550/arXiv.2502.14499"
       media:
+        - name: github
+          url: https://github.com/facebookresearch/MLGym
         - name: HuggingFace
           url:  https://huggingface.co/papers/2502.14499
 
     - title:   "Passthrough+: Real-time Stereoscopic View Synthesis for Mobile Mixed Reality"
-      author:  G. Chaurasia, A. Nieuwoudt, A. E. Ichim, R Szeliski, A. Sorkine-Hornung
-      journal: Proceedings of ACM on Computer Graphics and Interactive Techniques
-      note:    I3D
-      year:    2020
-      doi:     https://doi.org/10.1145/3384540
+      author:  "Gaurav Chaurasia, Arthur Nieuwoudt, Alexandru-Eugen Ichim, Richard Szeliski"
+      journal: "ACM on Computer Graphics and Interactive Techniques"
+      note:    "I3D"
+      year:    "2020"
       url:     "https://research.facebook.com/publications/passthrough-real-time-stereoscopic-view-synthesis-for-mobile-mixed-reality/"
+      doi:     "https://doi.org/10.1145/3384540"
       media:
         - name: Oculus Connect 6
           url:  https://www.oculus.com/blog/oculus-quest-at-oc6-introducing-hand-tracking-oculus-link-passthrough-on-quest-and-more/?locale=en_US
@@ -165,138 +175,146 @@ publications:
           url:  https://developers.meta.com/horizon/blog/mixed-reality-with-passthrough/
         - name: Passthrough games
           url:  https://www.youtube.com/watch?v=SJUM3VFat9s
-    - title:   RNN-based generative model for fine-grained sketching
-      author:  A. Jenal, N. Savinov, T. Sattler, G. Chaurasia
-      journal: arXiv
-      url:     https://arxiv.org/abs/1901.03991
-      note:    not peer reviewed
-      year:    2018
-    - title:   Editable parametric dense foliage from 3D capture
-      author:  G. Chaurasia, P. Beardsley
-      journal: IEEE International Conference on Computer Vision
-      note:    ICCV
-      year:    2017
-      url:     https://www.disneyresearch.com/publications/parametric-foliage/
-      doi:     http://openaccess.thecvf.com/content_iccv_2017/html/Chaurasia_Editable_Parametric_Dense_ICCV_2017_paper.html
+
+    - title:   "Editable parametric dense foliage from 3D capture"
+      author:  "G. Chaurasia, P. Beardsley"
+      journal: "IEEE International Conference on Computer Vision"
+      note:    "ICCV"
+      year:    "2017"
+      url:     "https://www.disneyresearch.com/publications/parametric-foliage/"
+      doi:     "http://openaccess.thecvf.com/content_iccv_2017/html/Chaurasia_Editable_Parametric_Dense_ICCV_2017_paper.html"
       media:
         - name: TechCrunch
           url:  https://techcrunch.com/2017/10/23/the-dream-of-customizable-virtual-3d-foliage-is-alive-at-disney/
-    - title:   Deep joint demosaicking and denoising
-      author:  M. Gharbi, G. Chaurasia, S. Paris, F. Durand
-      journal: ACM Transactions on Graphics
-      note:    SIGGRAPH Asia
-      year:    2016
-      url:     https://groups.csail.mit.edu/graphics/demosaicnet/
-      doi:     http://dx.doi.org/10.1145/2980179.2982399
-    - title:   Underwater 3D capture using a low-cost commercial depth camera
-      author:  ST Digumarti, G. Chaurasia, A. Taneja, A. Thomas, R. Siegwart, P. Beardsley
-      journal: IEEE Winter Conference on Applications of Computer Vision
-      note:    WACV
-      year:    2016
-      doi:     http://dx.doi.org/10.1109/WACV.2016.7477644
-      url:     https://www.disneyresearch.com/publication/underwater-3d-capture/
-      image:   https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20160304050935/Underwater-3D-Capture-using-a-Low-Cost-Commercial-Depth-Camera-Image.png
+
+    - title:   "Deep joint demosaicking and denoising"
+      author:  "M. Gharbi, G. Chaurasia, S. Paris, F. Durand"
+      journal: "ACM Transactions on Graphics"
+      note:    "SIGGRAPH Asia"
+      year:    "2016"
+      url:     "https://groups.csail.mit.edu/graphics/demosaicnet/"
+      doi:     "http://dx.doi.org/10.1145/2980179.2982399"
+
+    - title:   "Underwater 3D capture using a low-cost commercial depth camera"
+      author:  "ST Digumarti, G. Chaurasia, A. Taneja, A. Thomas, R. Siegwart, P. Beardsley"
+      journal: "IEEE Winter Conference on Applications of Computer Vision"
+      note:    "WACV"
+      year:    "2016"
+      doi:     "http://dx.doi.org/10.1109/WACV.2016.7477644"
+      url:     "https://www.disneyresearch.com/publication/underwater-3d-capture/"
+      image:   "https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20160304050935/Underwater-3D-Capture-using-a-Low-Cost-Commercial-Depth-Camera-Image.png"
       media:
-        - name: Phys
-          url:  http://phys.org/news/2016-03-disney-depth-cameras-depths-high-accuracy.html
-        - name: ScientificComputing
-          url:  http://www.scientificcomputing.com/news/2016/03/disney-takes-cameras-depths-high-accuracy-3-d-capture
-        - name: Eurekalert
-          url:  http://www.eurekalert.org/pub_releases/2016-03/dr-drt030916.php
-        - name: AzoSensors
-          url:  http://www.azosensors.com/news.aspx?newsID=10925
-        - name: EScienceNews
-          url:  http://esciencenews.com/sources/physorg/2016/03/09/disney.researchers.take.depth.cameras.depths.high.accuracy.3.d.capture
-        - name: ScienceCodex
-          url:  http://www.sciencecodex.com/disney_researchers_take_depth_cameras_into_the_depths_for_highaccuracy_3d_capture-177491
-    - title:   Transform recipes for efficient cloud photo enhancement
-      author:  M. Gharbi, Y. Shih, G. Chaurasia, J. Ragan-Kelley, S. Paris, F. Durand
-      journal: ACM Transactions on Graphics
-      note:    SIGGRAPH Asia
-      year:    2015
-      url:     https://groups.csail.mit.edu/graphics/xform_recipes/
-      doi:     http://dx.doi.org/10.1145/2816795.2818127
-      image:   http://people.csail.mit.edu/jrk/xform_thumb.png
+        - name: "Phys"
+          url:  "http://phys.org/news/2016-03-disney-depth-cameras-depths-high-accuracy.html"
+        - name: "ScientificComputing"
+          url:  "http://www.scientificcomputing.com/news/2016/03/disney-takes-cameras-depths-high-accuracy-3-d-capture"
+        - name: "Eurekalert"
+          url:  "http://www.eurekalert.org/pub_releases/2016-03/dr-drt030916.php"
+        - name: "AzoSensors"
+          url:  "http://www.azosensors.com/news.aspx?newsID=10925"
+        - name: "EScienceNews"
+          url:  "http://esciencenews.com/sources/physorg/2016/03/09/disney.researchers.take.depth.cameras.depths.high.accuracy.3.d.capture"
+        - name: "ScienceCodex"
+          url:  "http://www.sciencecodex.com/disney_researchers_take_depth_cameras_into_the_depths_for_highaccuracy_3d_capture-177491"
+
+    - title:   "Transform recipes for efficient cloud photo enhancement"
+      author:  "M. Gharbi, Y. Shih, G. Chaurasia, J. Ragan-Kelley, S. Paris, F. Durand"
+      journal: "ACM Transactions on Graphics"
+      note:    "SIGGRAPH Asia"
+      year:    "2015"
+      url:     "https://groups.csail.mit.edu/graphics/xform_recipes/"
+      doi:     "http://dx.doi.org/10.1145/2816795.2818127"
+      image:   "http://people.csail.mit.edu/jrk/xform_thumb.png"
       media:
-        - name: Phys
-          url:  http://phys.org/news/2015-11-technique-mobile-image-cloud-bandwidth.html
-    - title:   Multi view intrinsic decomposition and relighting
-      author:  S. Duchene, C. Riant, G. Chaurasia, J. Lopez-Moreno, PY Laffont, S. Popov, A. Bousseau, G. Drettakis
-      journal: ACM Transactions on Graphics
-      note:    presented at SIGGRAPH
-      year:    2015
-      url:     http://www-sop.inria.fr/reves/Basilic/2015/DRCLLPD15/
-      doi:     http://dx.doi.org/10.1145/2790060.2790063
-      image:   http://www-sop.inria.fr/reves/Basilic/2015/DRCLLPD15/ateaser.jpg
-    - title:   Compiling high performance recursive filters
-      author:  G. Chaurasia, J. Ragan-Kelley, S. Paris, G. Drettakis, F. Durand
-      journal: High Performance Graphics
-      year:    2015
-      url:     http://mit-gfx.github.io/recfilter/
-      doi:     http://dx.doi.org/10.1145/2790060.2790063
-      image:   http://www-sop.inria.fr/reves/Basilic/2015/CRPDD15a/image.jpg
-    - title:   Is it possible to use highly realistic virtual reality in the elderly? A feasibility study with image-based rendering
-      author:  M. Benoit, R. Guerchouche, PD Petit, E. Chapoulie, V. Manera, G. Chaurasia, G. Drettakis, P. Robert
-      journal: Journal of Neuropsychiatric Disease and Treatment
-      year:    2015
-      url:     http://www.dovepress.com/articles.php?article_id=20707
-      doi:     http://dx.doi.org/10.2147/NDT.S73179
-      image:   http://www-sop.inria.fr/reves/Basilic/2015/BGPCMCDR15/Benoit.jpg
-    - title:   Reminiscence therapy using image-based rendering in VR
-      author:  E. Chapoulie, R. Guerchouche, PD Petit, G. Chaurasia, P. Robert, G. Drettakis
-      journal: IEEE Virtual Reality
-      year:    2014
-      url:     http://www-sop.inria.fr/reves/Basilic/2014/CGPCRD14/
-      doi:     http://dx.doi.org/10.1109/VR.2014.6802049
-      image:   http://www-sop.inria.fr/reves/Basilic/2014/CGPCRD14/teaser.jpg
-    - title:   Depth synthesis and local warps for plausible image-based navigation
-      author:  G. Chaurasia, S. Duchene, O. Sorkine-Hornung, G. Drettakis
-      journal: ACM Transactions on Graphics
-      note:    presented at SIGGRAPH
-      year:    2013
-      url:     http://www-sop.inria.fr/reves/Basilic/2013/CDSD13/
-      doi:     http://dx.doi.org/10.1145/2487228.2487238
-      image:   http://www-sop.inria.fr/reves/Basilic/2013/CDSD13/museum.jpg
-    - title:   Perception of perspective distortions in image-based rendering
-      author:  P. Vangorp, C. Richardt, EA Cooper, G. Chaurasia, MS Banks, G. Drettakis
-      journal: ACM Transactions on Graphics
-      note:    SIGGRAPH
-      year:    2013
-      url:     http://www-sop.inria.fr/reves/Basilic/2013/VRCCBD13/
-      doi:     http://dx.doi.org/10.1145/2461912.2461971
-      image:   http://www-sop.inria.fr/reves/Basilic/2013/VRCCBD13/experiment.png
-    - title:   Silhouette-aware warping for image-based rendering
-      author:  G. Chaurasia, O. Sorkine, G. Drettakis
-      journal: Computer Graphics Forum
-      note:    EGSR
-      year:    2011
-      url:     http://www-sop.inria.fr/reves/Basilic/2011/CSD11/
-      doi:     http://dx.doi.org/10.1111/j.1467-8659.2011.01981.x
-      image:   http://www-sop.inria.fr/reves/Basilic/2011/CSD11/result_tree.jpg
-    - title:   Perception of visual artifacts in image-based rendering of facades
-      author:  P. Vangorp, G. Chaurasia, PY Laffont, R. Fleming, G. Drettakis
-      journal: Computer Graphics Forum
-      note:    EGSR
-      year:    2011
-      url:     http://www-sop.inria.fr/reves/Basilic/2011/VCLFD11/
-      doi:     http://dx.doi.org/10.1111/j.1467-8659.2011.01983.x
-      image:   http://www-sop.inria.fr/reves/Basilic/2011/VCLFD11/VCLFD11-teaser.png
-    - title:   A multimode immersive conceptual design system for architectural modeling and lighting
-      author:  M. Cabral, P. Vangorp, G. Chaurasia, E. Chapoulie, M. Hachet, G. Drettakis
-      journal: IEEE Symposium on 3D User Interfaces
-      note:    IEEE 3DUI
-      year:    2011
-      url:     http://www-sop.inria.fr/reves/Basilic/2011/CVCCHD11/
-      doi:     http://dx.doi.org/10.1109/3DUI.2011.5759211
-      image:   http://www-sop.inria.fr/reves/Basilic/2011/CVCCHD11/emmanuelle2.jpg
-    - title:   Virtual chaotic traffic simulation
-      author:  G. Chaurasia, BR Selvamani, N. Gupta, S. Kumar
-      journal: Indian Conference on Computer Vision, Graphics and Image Processing
-      note:    ICVGIP
-      year:    2010
-      url:     /research/traffsim/
-      doi:     http://dx.doi.org/10.1145/1924559.1924604
-      internal: 1
+        - name: "Phys"
+          url:  "http://phys.org/news/2015-11-technique-mobile-image-cloud-bandwidth.html"
+
+    - title:   "Multi view intrinsic decomposition & relighting"
+      author:  "S. Duchene, C. Riant, G. Chaurasia, J. Lopez-Moreno, PY Laffont, S. Popov, A. Bousseau, G. Drettakis"
+      journal: "ACM Transactions on Graphics"
+      note:    "presented at SIGGRAPH"
+      year:    "2015"
+      url:     "http://www-sop.inria.fr/reves/Basilic/2015/DRCLLPD15/"
+      doi:     "http://dx.doi.org/10.1145/2790060.2790063"
+      image:   "http://www-sop.inria.fr/reves/Basilic/2015/DRCLLPD15/ateaser.jpg"
+
+    - title:   "Compiling high performance recursive filters"
+      author:  "G. Chaurasia, J. Ragan-Kelley, S. Paris, G. Drettakis, F. Durand"
+      journal: "High Performance Graphics"
+      year:    "2015"
+      url:     "http://mit-gfx.github.io/recfilter/"
+      doi:     "http://dx.doi.org/10.1145/2790060.2790063"
+      image:   "http://www-sop.inria.fr/reves/Basilic/2015/CRPDD15a/image.jpg"
+
+    - title:   "Is it possible to use highly realistic virtual reality in the elderly? A feasibility study with image-based rendering"
+      author:  "M. Benoit, R. Guerchouche, PD Petit, E. Chapoulie, V. Manera, G. Chaurasia, G. Drettakis, P. Robert"
+      journal: "Journal of Neuropsychiatric Disease and Treatment"
+      year:    "2015"
+      url:     "http://www.dovepress.com/articles.php?article_id=20707"
+      doi:     "http://dx.doi.org/10.2147/NDT.S73179"
+      image:   "http://www-sop.inria.fr/reves/Basilic/2015/BGPCMCDR15/Benoit.jpg"
+
+    - title:   "Reminiscence therapy using image-based rendering in VR"
+      author:  "E. Chapoulie, R. Guerchouche, PD Petit, G. Chaurasia, P. Robert, G. Drettakis"
+      journal: "IEEE Virtual Reality"
+      year:    "2014"
+      url:     "http://www-sop.inria.fr/reves/Basilic/2014/CGPCRD14/"
+      doi:     "http://dx.doi.org/10.1109/VR.2014.6802049"
+      image:   "http://www-sop.inria.fr/reves/Basilic/2014/CGPCRD14/teaser.jpg"
+
+    - title:   "Depth synthesis and local warps for plausible image-based navigation"
+      author:  "G. Chaurasia, S. Duchene, O. Sorkine-Hornung, G. Drettakis"
+      journal: "ACM Transactions on Graphics"
+      note:    "presented at SIGGRAPH"
+      year:    "2013"
+      url:     "http://www-sop.inria.fr/reves/Basilic/2013/CDSD13/"
+      doi:     "http://dx.doi.org/10.1145/2487228.2487238"
+      image:   "http://www-sop.inria.fr/reves/Basilic/2013/CDSD13/museum.jpg"
+
+    - title:   "Perception of perspective distortions in image-based rendering"
+      author:  "P. Vangorp, C. Richardt, EA Cooper, G. Chaurasia, MS Banks, G. Drettakis"
+      journal: "ACM Transactions on Graphics"
+      note:    "SIGGRAPH"
+      year:    "2013"
+      url:     "http://www-sop.inria.fr/reves/Basilic/2013/VRCCBD13/"
+      doi:     "http://dx.doi.org/10.1145/2461912.2461971"
+      image:   "http://www-sop.inria.fr/reves/Basilic/2013/VRCCBD13/experiment.png"
+
+    - title:   "Silhouette-aware warping for image-based rendering"
+      author:  "G. Chaurasia, O. Sorkine, G. Drettakis"
+      journal: "Computer Graphics Forum"
+      note:    "EGSR"
+      year:    "2011"
+      url:     "http://www-sop.inria.fr/reves/Basilic/2011/CSD11/"
+      doi:     "http://dx.doi.org/10.1111/j.1467-8659.2011.01981.x"
+      image:   "http://www-sop.inria.fr/reves/Basilic/2011/CSD11/result_tree.jpg"
+
+    - title:   "Perception of visual artifacts in image-based rendering of facades"
+      author:  "P. Vangorp, G. Chaurasia, PY Laffont, R. Fleming, G. Drettakis"
+      journal: "Computer Graphics Forum"
+      note:    "EGSR"
+      year:    "2011"
+      url:     "http://www-sop.inria.fr/reves/Basilic/2011/VCLFD11/"
+      doi:     "http://dx.doi.org/10.1111/j.1467-8659.2011.01983.x"
+      image:   "http://www-sop.inria.fr/reves/Basilic/2011/VCLFD11/VCLFD11-teaser.png"
+
+    - title:   "A multimode immersive conceptual design system for architectural modeling and lighting"
+      author:  "M. Cabral, P. Vangorp, G. Chaurasia, E. Chapoulie, M. Hachet, G. Drettakis"
+      journal: "IEEE Symposium on 3D User Interfaces"
+      note:    "IEEE 3DUI"
+      year:    "2011"
+      url:     "http://www-sop.inria.fr/reves/Basilic/2011/CVCCHD11/"
+      doi:     "http://dx.doi.org/10.1109/3DUI.2011.5759211"
+      image:   "http://www-sop.inria.fr/reves/Basilic/2011/CVCCHD11/emmanuelle2.jpg"
+
+    - title:   "Virtual chaotic traffic simulation"
+      author:  "G. Chaurasia, BR Selvamani, N. Gupta, S. Kumar"
+      journal: "Indian Conference on Computer Vision, Graphics and Image Processing"
+      note:    "ICVGIP"
+      year:    "2010"
+      url:     "/research/traffsim/"
+      doi:     "http://dx.doi.org/10.1145/1924559.1924604"
+      internal: "1"
 
 talks:
     - venue:  "CVPR tutorial: Novel View Synthesis: From Depth-Based Warping to Multi-Plane Images and Beyond"
@@ -311,7 +329,7 @@ talks:
       internal: 1
 
 reviews:
-    grants:
+    grants:    
         - title: National Science Foundation (USA)
           years:
             - year: 2017
