@@ -20,7 +20,8 @@ Jump to [Publications](#peer-reviewed-publications), [Thesis](#doctoral-thesis),
 **{{pub.title}}**<br />
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
-{% endif %} *{{pub.year}}*  [[web]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})] {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
+{% endif %} *{{pub.year}}*  [[web]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})] {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %} {% if pub.github %}[[github]({{pub.github}})]{% endif %} {% if pub.huggingface %}[[huggingface]({{pub.huggingface}})]{% endif %}
+{% if pub.media %}<br />Media:{% for article in pub.media %} [{{article.name}}]({{article.url}}){% endfor %}{% endif %}
 
 {% endfor %}
 
@@ -42,18 +43,6 @@ Jump to [Publications](#peer-reviewed-publications), [Thesis](#doctoral-thesis),
 **Algorithms & perceptual analysis for interactive free viewpoint image-based navigation** [[web]({{ "/research/thesis/" | prepend: site.baseurl}})]<br />
 *Adviser: [George Drettakis](http://www-sop.inria.fr/members/George.Drettakis)* <br />
 [INRIA](http://www.inria.fr/sophia), 2014
-
-------
-
-## Media coverage
-
-{% for pub in site.data.cv.publications %}
-{% if pub.media %}
-- {{pub.title}} ({{pub.note}}, {{pub.year}}){% for article in pub.media %}
-    - [{{article.url}}]({{article.url}}){% endfor %}
-{% endif %}
-
-{% endfor %}
 
 ------
 
