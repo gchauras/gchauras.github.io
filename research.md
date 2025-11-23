@@ -20,8 +20,7 @@ Jump to [Publications](#peer-reviewed-publications), [Thesis](#doctoral-thesis),
 **{{pub.title}}**<br />
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
-{% endif %} *{{pub.year}}*  [[web]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})] {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %} {% if pub.github %}[[github]({{pub.github}})]{% endif %} {% if pub.huggingface %}[[huggingface]({{pub.huggingface}})]{% endif %}
-{% if pub.media %}<br />Media:{% for article in pub.media %} [{{article.name}}]({{article.url}}){% endfor %}{% endif %}
+{% endif %} *{{pub.year}}* {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %} {% if pub.github %}[[github]({{pub.github}})]{% endif %} {% if pub.huggingface %}[[huggingface]({{pub.huggingface}})]{% endif %} [[web]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})]{% if pub.media %}<br />Media:{% for article in pub.media %} [[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
 
 {% endfor %}
 
