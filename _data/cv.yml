@@ -133,6 +133,17 @@ awards:
       detail: All India Rank 54 in IIT-JEE 2005 (entrance examination for Indian Institutes of Technology) amongst nearly 300,000 aspirants.
 
 publications:
+    - title:   "AIRS-Bench: a Suite of Tasks for Frontier AI Research Science Agents"
+      author:  "Alisia Lupidi, Bhavul Gauri, Thomas Simon Foster, Bassel Al Omari, Despoina Magka, Alberto Pepe, Alexis Audran-Reiss, Muna Aghamelu, Nicolas Baldwin, Lucia Cipolina-Kun, Jean-Christophe Gagnon-Audet, Chee Hau Leow, Sandra Lefdal, Hossam Mossalam, Abhinav Moudgil, Saba Nazir, Emanuel Tewolde, Isabel Urrego, Jordi Armengol Estape, Amar Budhiraja, Gaurav Chaurasia, Abhishek Charnalia, Derek Dunfield, Karen Hambardzumyan, Daniel Izcovich, Martin Josifoski, Ishita Mediratta, Kelvin Niu, Parth Pathak, Michael Shvartsman, Edan Toledo, Anton Protopopov, Roberta Raileanu, Alexander Miller, Tatiana Shavrina, Jakob Foerster, Yoram Bachrach"
+      journal: "arxiv:2602.06855"
+      doi:     "https://arxiv.org/abs/2602.06855"
+      url:     "https://huggingface.co/papers/2602.06855"
+      github:  "https://github.com/facebookresearch/airs-bench"
+      huggingface: "https://huggingface.co/papers/2602.06855"
+      media:
+          - name: AI Research Roundup
+            url:  "https://www.youtube.com/watch?v=KtRo6NSL9Iw"
+
     - title:   "Souper-Model: How Simple Arithmetic Unlocks State-of-the-Art LLM Performance"
       author:  "Shalini Maiti, Amar Budhiraja, Bhavul Gauri, Gaurav Chaurasia, Anton Protopopov, Alexis Audran-Reiss, Michael Slater, Despoina Magka, Tatiana Shavrina, Roberta Raileanu, Yoram Bachrach"
       journal: "arXiv:2511.13254"
